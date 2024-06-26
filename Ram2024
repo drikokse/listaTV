@@ -1,15 +1,12 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
 
 ################################# CANAIS #################################
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS: ABERTOS",TV RA TIM BUM
+#EXTINF:-1 group-title="INFANTIS" tvg-logo="https://fivetv.xyz/logos/ratimbum.png",TV Ra Tim Bum 
 https://cdn-3.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
 
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/universalchannel.png",Universal TV
+#EXTINF:-1 group-title="" tvg-logo="https://fivetv.xyz/logos/universalchannel.png",Universal TV
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 1
-http://5ce.co:80/pamelaflores/92446060a/122135
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 2
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title="✨ CANAIS • VARIEDADES",MODO VIAGEM HD
+http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
 
-
-#
