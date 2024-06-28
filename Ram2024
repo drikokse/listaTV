@@ -66,7 +66,7 @@ http://45.235.0.78/VIVA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
 http://45.235.0.78/TBS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
-http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/starchannel_5a5b0f9b_96ac2629e840209bab131b3651182f8f96ea7b61/playlist.m3u8?sk=def50200cc48995393f36bef0d85a71d96c70dfc62d5a5ba702b9677821f550efe96bab3e499892b59a9d52e728694aa423ecaff001046c4359c3bbc4540c2cc546d5a10259ce11264db67067aa250bb4eb82f66566ed9071270e3ebf241dd82201fb0dd3fae49d8332e00c18995c524748d8238e2e85388ed2128fadc6a4c809b17957411f054e05d3df9bd4bcc271585ed68f7542be465fefbc6c1658b1c9e7d51f41746513c4c7a9d0d67ac44d73f7f6119117a850f1a02d397aac88012039e89540537fc94138298b2e51e3f4e64beb7a69a6cc7527f1dc2bc3a5a970f8c8ae8c187e7af49fb914871df0cbf2fd9341aba641f6527fcaa1e9bba4378c5023014ec6121d4098bfb359b4dd0d8ef1b16cea7aa15a7a8cb35c326d1c58bf78e77a7c711c29341b8178833420bc85d0ce4b56059b6c5f6ec1eec4edd17de6679115c3e72888d6d
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://45.235.0.78/MTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
