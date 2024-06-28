@@ -113,10 +113,10 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 http://45.235.0.78/TRUETV-HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title="Canais | VARIEDADES",Universal TV
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal TV
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="CANAIS",Canal Sony
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais | FILMES E SERIES",Canal Sony HD 
 http://45.235.0.78/SONY-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
