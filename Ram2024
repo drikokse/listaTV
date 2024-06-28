@@ -3,9 +3,9 @@
 
 ################################# CANAIS #################################
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title="✨ CANAIS • VARIEDADES",MODO VIAGEM HD
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title="CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title="✨ CANAIS • FILMES E SERIES",UNIVERSAL TV 
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title="CANAIS • FILMES E SERIES",UNIVERSAL TV 
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba HD
