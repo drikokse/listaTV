@@ -115,7 +115,7 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 http://45.235.0.78/TRUETV-HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/universalchannel.png"group-title="Canais | VARIEDADES",Universal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title="Canais | VARIEDADES",Universal TV
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="CANAIS",Canal Sony
