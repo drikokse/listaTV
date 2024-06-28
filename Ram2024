@@ -93,10 +93,8 @@ http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 http://45.235.0.78/DISCOVERYID-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/UB",Discovery Science
 https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
 http://45.235.0.78/HISTORY-HD/index.m3u8
 
