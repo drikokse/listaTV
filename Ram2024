@@ -176,7 +176,7 @@ http://45.235.0.78/TCCULT-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 https://mycdn.delivery/universaltv/index.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://45.235.0.78/PARAMOUNT-HD/index.m3u8
 #EXTINF:-1 tvg-logo=""https://fivetv.xyz/logos/syfy.png" group-title="Canais | VARIEDADES",USA NETWORK
 http://45.235.0.78/SYFY-HD/index.m3u8
