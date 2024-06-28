@@ -2,6 +2,9 @@
 
 ################################# CANAIS #################################
 
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/universalchannel.png",Universal TV 
+http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title="✨ CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
 
@@ -115,10 +118,6 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://fivetv.xyz/logos/universalchannel.png",Universal TV 
-http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 http://45.235.0.78/TRUETV-HD/index.m3u8
