@@ -70,7 +70,7 @@ http://45.235.0.78/TBS-HD/index.m3u8
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://45.235.0.78/MTV-HD/index.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/w0k0QqA.png" group-title="CANAIS ESPORTE",ESPN FHD
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN 
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://45.235.0.78/SPORTV-HD/index.m3u8
@@ -117,7 +117,7 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 http://45.235.0.78/TRUETV-HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title=" CANAIS • FILMES E SERIES",UNIVERSAL TV 
+#EXTINF:-1 group-title="H265/HEVC" tvg-logo="http://70.ms/mN",Universal Channel,UNIVERSAL TV 
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="CANAIS",Canal Sony
