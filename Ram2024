@@ -186,7 +186,7 @@ https://mycdn.delivery/hbopop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="Canais | ABERTO",HBO MUNDI 
  http://45.235.0.78/MAX-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/hboplus.png" -1 tvg-id="HBO+ group-title="Canais | filmes", CANAIS",HBO+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/ohFIcQ8.png" group-title=" CANAIS",HBO +
 http://45.235.0.78/HBOPLUS-HD/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
@@ -204,7 +204,26 @@ http://45.235.0.78/CINEMAX-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
 http://45.235.0.78/DISNEY-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
+#EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="Canais | FILMES",Runtime TV e Filmes HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Canais | FILMES",Runtime Comédia HD 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Canais | FILMES",Runtime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Canais | FILMES",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | FILMES E SERIES",cine canal
 http://45.235.0.78/CINECANAL-HD/index.m3u8
@@ -215,8 +234,7 @@ https://mycdn.delivery/zoomoo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
-https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
+
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
 https://watch.vcdn.in/gnt/index.m3u8
