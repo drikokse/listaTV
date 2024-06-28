@@ -70,18 +70,14 @@ http://45.235.0.78/BANDNEWS-HD/index.m3u8
 http://45.235.0.78/VIVA-HD/index.m3u8
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS (H265)" tvg-logo="https://i.imgur.com/NSy7RUp.png" group-title="✨ CANAIS • H.265",TNT NOVELAS
 http://45.235.0.78/TBS-HD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://45.235.0.78/MTV-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://45.235.0.78/SPORTV-HD/index.m3u8
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/7Fldyki.png" group-title="CANAIS • H.265",Premiere Clubes
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere Clubes 
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel 
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
