@@ -10,4 +10,5 @@ http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title="✨ CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
 
-#
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
