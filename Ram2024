@@ -179,8 +179,8 @@ http://45.235.0.78/HBO-HD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
 http://45.235.0.78/HBO2-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO pop HD
-https://mycdn.delivery/hbopop/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
+http://45.235.0.78/MAXUP-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="Canais | ABERTO",HBO MUNDI 
  http://45.235.0.78/MAX-HD/index.m3u8
@@ -193,8 +193,8 @@ http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
 http://45.235.0.78/HBOFAMILY-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31475
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" tvg-id="Maxprime.br" group-title="CANAIS: LEGENDADOS",HBO XTREME 
+http://45.235.0.78/MAXPRIME-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 https://brflu.walk-tv.com/5783/index.m3u8
