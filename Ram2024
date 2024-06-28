@@ -178,7 +178,7 @@ https://mycdn.delivery/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://45.235.0.78/PARAMOUNT-HD/index.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD H.265" tvg-logo="http://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png" group-title="CANAIS: FILMES E SÉRIES",SYFY ",USA NETWORK
+#EXTINF:-1 tvg-logo=""https://fivetv.xyz/logos/syfy.png" group-title="Canais | VARIEDADES",USA NETWORK
 http://45.235.0.78/SYFY-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
