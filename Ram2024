@@ -12,12 +12,12 @@ http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 http://15.235.15.230:14487/
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP HD
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+http://45.235.0.78/RECORDTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT
 https://aovivo.maissbt.com/index.m3u8
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1130839093.m3u8
+http://45.235.0.78/BAND-HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://brflu.walk-tv.com/5738/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
@@ -58,7 +58,7 @@ http://45.235.0.78/MULTISHOW-HD/index.m3u8
 #EXTINF:-1 tvg-id="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | INFANTIL",Globo News FHD
 http://45.235.0.78/GLOBONEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/0xBTmQN.png" group-title="✨ CANAIS • NOTÍCIA",RECORD NEWS 
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+http://45.235.0.78/RECORDNEWS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
@@ -74,6 +74,9 @@ http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 http://45.235.0.78/MTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://45.235.0.78/SPORTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/uQnMRtt.png" group-title="CANAIS • ESPORTE",SPORTV 2 
+http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-logo="https://fivetv.xyz/logos/premiere.png",Premiere Clubes 
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
 #EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel 
@@ -95,10 +98,10 @@ http://45.235.0.78/DISCOVERYID-HD/index.m3u8
 https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
+http://45.235.0.78/HISTORY-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
-https://brflu.walk-tv.com/5814/index.m3u8
+http://45.235.0.78/H2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
 http://45.235.0.78/OFF-HD/index.m3u8
 
@@ -113,6 +116,9 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="CANAIS",Canal Sony
+http://45.235.0.78/SONY-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 http://45.235.0.78/TRUETV-HD/index.m3u8
@@ -156,21 +162,21 @@ http://45.235.0.78/SPACE-HD/index.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 http://45.235.0.78/MEGAPIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-https://brflu.walk-tv.com/5879/index.m3u8
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://45.235.0.78/TCACTION-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://brflu.walk-tv.com/5877/index.m3u8
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://brflu.walk-tv.com/5901/index.m3u8
+http://45.235.0.78/TCFUN-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-https://brflu.walk-tv.com/5880/index.m3u8
+http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YbyynJv.png" group-title="Canais | FILMES E SERIES",Telecine Cult
-https://brflu.walk-tv.com/5899/index.m3u8
+http://45.235.0.78/TCCULT-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 https://mycdn.delivery/universaltv/index.m3u8
