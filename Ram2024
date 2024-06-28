@@ -79,16 +79,15 @@ http://45.235.0.78/SPORTV-HD/index.m3u8
 http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bGJmTJ.png"group-title="Canais | VARIEDADES",Discovery Channel HD
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm2Zp28.png" group-title="✨ CANAIS • DOCUMENTARIO",NATIONAL GEOGRAPHIC HD
 http://45.235.0.78/NATGEO-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV HD" tvg-logo="https://images2.imgbox.com/33/ae/psOEUple_o.png" group-title="CANAIS | VARIEDADES",TRUT TV HD
-http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
+http://45.235.0.78/DISCOVERYID-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
@@ -226,6 +225,9 @@ https://watch.vcdn.in/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
 https://brflu.walk-tv.com/5759/index.m3u8
+
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV HD" tvg-logo="https://images2.imgbox.com/33/ae/psOEUple_o.png" group-title="CANAIS | VARIEDADES",TRUT TV HD
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2582" group="Canais Link 1" size="Small",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
