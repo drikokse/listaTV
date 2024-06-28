@@ -61,8 +61,7 @@ http://45.235.0.78/RECORDNEWS-HD/index.m3u8
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
 http://45.235.0.78/BANDNEWS-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD*
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://45.235.0.78/VIVA-HD/index.m3u8
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS (H265)" tvg-logo="https://i.imgur.com/NSy7RUp.png" group-title="✨ CANAIS • H.265",TNT NOVELAS
 http://45.235.0.78/TBS-HD/index.m3u8
@@ -82,8 +81,12 @@ http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bGJmTJ.png"group-title="Canais | VARIEDADES",Discovery Channel HD
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
+http://45.235.0.78/DISCTHEATER-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm2Zp28.png" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 http://45.235.0.78/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
