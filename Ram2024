@@ -91,7 +91,7 @@ http://45.235.0.78/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV HD" tvg-logo="https://images2.imgbox.com/33/ae/psOEUple_o.png" group-title="CANAIS | VARIEDADES",TRUT TV HD
 http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png", tvg-name="ID" group-title="Canais | VARIEDADES",INVESTIGAÇÃO DISCOVERY
+#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-name="ID" group-title="Canais | VARIEDADES",ID HD
 http://45.235.0.78/DISCOVERYID-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
