@@ -41,7 +41,7 @@ http://45.235.0.78/GLOOB-HD/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/zVNaltj.png" group-title="Canais | INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://brflu.walk-tv.com/5838/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS: ABERTOS",TV RA TIM BUM
@@ -63,23 +63,23 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://45.235.0.78/BANDNEWS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://45.235.0.78/VIVA-HD/index.m3u8
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS (H265)" tvg-logo="https://i.imgur.com/NSy7RUp.png" group-title="✨ CANAIS • H.265",TNT NOVELAS
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
 http://45.235.0.78/TBS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://45.235.0.78/MTV-HD/index.m3u8
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://fivetv.xyz/logos/espn.png",ESPN 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://45.235.0.78/SPORTV-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/uQnMRtt.png" group-title="CANAIS • ESPORTE",SPORTV 2 
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0bGJmTJ.png"group-title="Canais | VARIEDADES",Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
 https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
