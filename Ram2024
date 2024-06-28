@@ -182,7 +182,7 @@ http://45.235.0.78/HBO2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
 http://45.235.0.78/MAXUP-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="Canais | ABERTO",HBO MUNDI 
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais | ABERTO",HBO MUNDI 
  http://45.235.0.78/MAX-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/ohFIcQ8.png" group-title=" CANAIS",HBO +
