@@ -145,7 +145,7 @@ http://45.235.0.78/FOX-HD/index.m3u8
 http://45.235.0.78/TLC-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31292
+http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 https://brflu.walk-tv.com/5771/index.m3u8
@@ -168,16 +168,10 @@ http://45.235.0.78/TCFUN-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
 http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YbyynJv.png" group-title="Canais | FILMES E SERIES",Telecine Cult
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
 http://45.235.0.78/TCCULT-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://mycdn.delivery/universaltv/index.m3u8
-
-#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
+#EXTINF:-1 tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://45.235.0.78/PARAMOUNT-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""https://fivetv.xyz/logos/syfy.png" group-title="Canais | VARIEDADES",USA NETWORK
-http://45.235.0.78/SYFY-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://45.235.0.78/HBO-HD/index.m3u8
