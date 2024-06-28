@@ -186,7 +186,7 @@ https://mycdn.delivery/hbopop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="Canais | ABERTO",HBO MUNDI 
  http://45.235.0.78/MAX-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+"https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title=" CANAIS",HBO +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" -1 tvg-id="HBO+ group-title="Canais | filmes", CANAIS",HBO+
 http://45.235.0.78/HBOPLUS-HD/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
