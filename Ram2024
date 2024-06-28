@@ -79,8 +79,7 @@ http://45.235.0.78/SPORTV-HD/index.m3u8
 http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
-padrão #EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-name="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
-http://45.235.0.78/DISCOVERYID-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bGJmTJ.png"group-title="Canais | VARIEDADES",Discovery Channel HD
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
