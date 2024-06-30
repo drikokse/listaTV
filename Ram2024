@@ -3,8 +3,11 @@
 
 ################################# CANAIS #################################
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbJared.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title=" CANAIS • VARIEDADES"HBO
+https://embedflix.info/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI0IDU6MTY6MzEgQU0maGFzaF92YWx1ZT0ra3c4Qi8wYTVFUGlxWDdiSDJGUWpBPT0mdmFsaWRtaW51dGVzPTE2MA==
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba HD
 http://15.235.15.230:14487/
