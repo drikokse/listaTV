@@ -228,7 +228,50 @@ http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2582" group="Canais Link 1" size="Small",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
+http://15.235.15.230:14020/
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD [Alter]
+https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alter]
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 FHD
+https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD [Alter]
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD [Alter]
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alter]
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="2582" group="Canais Link 1" size="Small",Sony classic one
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
