@@ -15,7 +15,7 @@ http://45.235.0.78/RECORDTV-HD/index.m3u8
 https://aovivo.maissbt.com/index.m3u8
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://embedflix.info/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI0IDU6MTY6MzEgQU0maGFzaF92YWx1ZT0ra3c4Qi8wYTVFUGlxWDdiSDJGUWpBPT0mdmFsaWRtaW51dGVzPTE2MA==
+https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://brflu.walk-tv.com/5738/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
