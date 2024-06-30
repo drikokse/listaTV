@@ -6,9 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbJared.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.imgur.com/mbJared.png" group-title=" CANAIS • VARIEDADES"HBO
-https://embedflix.info/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI0IDU6MTY6MzEgQU0maGFzaF92YWx1ZT0ra3c4Qi8wYTVFUGlxWDdiSDJGUWpBPT0mdmFsaWRtaW51dGVzPTE2MA==
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba HD
 http://15.235.15.230:14487/
 
@@ -18,7 +15,7 @@ http://45.235.0.78/RECORDTV-HD/index.m3u8
 https://aovivo.maissbt.com/index.m3u8
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://abc.embedmax.site/band-0/index.fmp4.m3u8?token=664b787d40217fe5e233504e90fb49e738382624-6bb56bb1da4ab491d3be649228e26601-1719723948-1719723768
+https://embedflix.info/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI0IDU6MTY6MzEgQU0maGFzaF92YWx1ZT0ra3c4Qi8wYTVFUGlxWDdiSDJGUWpBPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://brflu.walk-tv.com/5738/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
