@@ -97,8 +97,7 @@ http://45.235.0.78/DISCOVERYID-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-http://45.235.0.78/HISTORY-HD/index.m3u8
-
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://45.235.0.78/H2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
