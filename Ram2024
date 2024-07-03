@@ -37,8 +37,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
 http://45.235.0.78/CARTOON-HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | INFANTIL",Classic Hits
-https://cdn-4.nxplay.com.br/CLASSICHITS_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
@@ -111,6 +109,22 @@ http://45.235.0.78/OFF-HD/index.m3u8
 http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/200px-Logotipo_do_Modo_Viagem.svg.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
 http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5cb16f4ba6ee0.jpg" group-title="Canais | VARIEDADES",Alpha TV
+https://www.dailymotion.com/cdn/live/video/x82yivf.m3u8?sec=pviH032lVPdgSM7-tNUiCguyU6B4kfW2mi0rSGmPYmG1CzC7ZSHw0_Z6qs2tCCke&dmTs=300487&dmV1st=85e32a3b-dfba-4bb5-9145-6400111ccf3c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1200px-R%C3%A1dio_Rock_logo.svg.png" group-title="Canais | VARIEDADES",89 A Rádio Rock
+https://live-b.cf.dmcdn.net/sec2(QIapmTjoqQVDt6nQ49h37uLs72RzjxfC2P8mx_KxwJ2OWP-mgkf3_otCFcUq4PcxDEpaDRLN2MOeQZGAu59NCtoLAk79_TJjLFHxNAjCdsk)/dm/3/x7wjrui/s/live-4.m3u8#cell=lcfb
+#EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Kiss TV
+#EXTINF:-1 tvg-logo="https://agitomax.com.br/wp-content/uploads/2022/11/Logo-agitomax-rose.png" group-title="Canais ",Agito max
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Classic_Hits_Network_Logo.svg" group-title="Canais | VARIEDADES",Classic Hits
+https://cdn-4.nxplay.com.br/CLASSICHITS_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1200px-Top_TV_logo.svg.png" group-title="Canais | VARIEDADES",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg" group-title="Canais | VARIEDADES",Kiss TV
+https://isaocorp.cloudecast.com/kisstv/index.m3u8
+
 
 
 ############################################################################ Canais | FILMES E SERIES
@@ -232,8 +246,7 @@ https://brflu.walk-tv.com/5759/index.m3u8
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV HD" tvg-logo="https://images2.imgbox.com/33/ae/psOEUple_o.png" group-title="CANAIS | VARIEDADES",TRUT TV HD
 http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 
-#EXTINF:0 type="stream" channelId="2582" group="Canais Link 1" size="Small",Agito max
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
 https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
 
