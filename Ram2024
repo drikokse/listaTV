@@ -36,7 +36,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://45.235.0.78/CARTOON-HD/index.m3u8
+https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
@@ -47,7 +47,7 @@ http://45.235.0.78/GLOOB-HD/index.m3u8
 https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
-https://brflu.walk-tv.com/5838/index.m3u8
+https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS: ABERTOS",TV RA TIM BUM
 https://cdn-4.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
@@ -77,8 +77,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
 https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-http://45.235.0.78/SPORTV-HD/index.m3u8
-
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
@@ -91,11 +90,11 @@ https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-http://45.235.0.78/DISCTHEATER-HD/index.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 http://45.235.0.78/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
-http://45.235.0.78/DISCOVERYID-HD/index.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
@@ -131,14 +130,14 @@ https://isaocorp.cloudecast.com/kisstv/index.m3u8
 EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
+https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.235.0.78/TNTSERIES-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal TV
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais | FILMES E SERIES",Canal Sony HD 
-http://45.235.0.78/SONY-HD/index.m3u8
+https://cdn-4.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8 
@@ -147,12 +146,11 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8 
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-http://45.235.0.78/TNT-HD/index.m3u8
+https://cdn-4.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
 http://45.235.0.78/FX-HD/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
-http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
-
+https://cdn-4.nxplay.com.br/WARNER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://45.235.0.78/AMC-HD/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
@@ -172,7 +170,7 @@ http://45.235.0.78/SPACE-HD/index.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 http://45.235.0.78/MEGAPIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
-http://45.235.0.78/FOXLIFE-HD/index.m3u8
+https://cdn-4.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
 http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 
