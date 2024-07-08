@@ -53,8 +53,7 @@ http://t2tp.xyz:80/343963665/370954400/71397
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/423
+
 
 #EXTINF:-1 tvg-id="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | INFANTIL",Globo News FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
@@ -62,7 +61,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 http://45.235.0.78/RECORDNEWS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News SD
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/114
@@ -71,7 +70,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/290
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/430
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
@@ -91,7 +90,8 @@ https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 http://45.235.0.78/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OJWv4Ij.png" tvg-id="ID" group-title="Canais | VARIEDADES",Discovery Investigação HD
+
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Canais | VARIEDADES",ID HD 
 https://cdn-4.nxplay.com.br/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
@@ -106,6 +106,10 @@ http://45.235.0.78/OFF-HD/index.m3u8
 http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/200px-Logotipo_do_Modo_Viagem.svg.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/85
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/420
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/423
 
 #EXTINF:-1 tvg-logo="https://agitomax.com.br/wp-content/uploads/2024/06/LOGO-300x300.png" group-title="Canais ",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
