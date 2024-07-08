@@ -57,7 +57,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/423
 
 #EXTINF:-1 tvg-id="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | INFANTIL",Globo News FHD
-http://45.235.0.78/GLOBONEWS-HD/index.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
 http://45.235.0.78/RECORDNEWS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
