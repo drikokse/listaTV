@@ -43,7 +43,7 @@ http://45.235.0.78/GLOOB-HD/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
@@ -183,7 +183,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/309
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/6/6e/Telecinecult22.png/revision/latest?cb=20221030001818&path-prefix=pt-br" group-title="Canais | FILMES E SERIES",Telecine Cult HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | FILMES E SERIES",TCM
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/292
