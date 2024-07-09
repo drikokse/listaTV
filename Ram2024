@@ -17,7 +17,7 @@ https://alanza.iptv2022.com/sbt/index.m3u8
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8?
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://cdn-4.nxplay.com.br/BAND_HD_PFZ/tracks-v2a1/mono.m3u8
+https://live-c2.cf.dmcdn.net/sec2(bSywTF-3h7mLjo8noCkFkgjiqWqN-HfjC1DFmQZgHgXXi7NFZDT41FryrvSxpui5PpybLJord3oeV_CbVi0pIDOQ_JgO23rvlUYvODyFmEg)/cloud/3/x83vbd6/s/live-3.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://alanza.iptv2022.com/RedeTV/index.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
