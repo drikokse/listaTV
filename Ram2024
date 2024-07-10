@@ -39,7 +39,7 @@ https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+https://stream.embedflix.info/p2p/globosp/playlist.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
 http://45.235.0.78/GLOOB-HD/index.m3u8
