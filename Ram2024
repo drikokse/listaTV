@@ -10,7 +10,7 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
 https://abc.embedmax.site/globoSP/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP HD
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
+https://abc.embedmax.site/recordSP/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT
 https://alanza.iptv2022.com/sbt/index.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" "tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais" | GLOBO SP
@@ -68,8 +68,6 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/114
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/290
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
@@ -79,9 +77,9 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://abc.embedmax.site/sportv1/index.m3u8
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/tracks-v1a1/mono.m3u8?md5=GodlDKnFBMXIXLAWW_lymg&expires=1720623480
+http://abc.embedmax.site/sportv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
-https://abc.embedmax.site/premiere1/index.fmp4.m3u8
+https://abc.embedmax.site/premiere1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canais | VARIEDADES",Discovery Channel HD
 http://abc.embedmax.site/discoverychannel/index.m3u8
@@ -97,7 +95,7 @@ http://abc.embedmax.site/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",ID HD 
 http://abc.embedmax.site/discoveryid/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
-http://abc.embedmax.site/discoveryscience/index.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png" group-title="Canais | VARIEDADES",History HD
 https://cdn-4.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
