@@ -23,11 +23,11 @@ https://abc.embedmax.site/band/index.m3u8
 https://alanza.iptv2022.com/RedeTV/index.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8?
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rSSyJwWxUwfeGCiYLCSGzps0U5nCs8dGudzgbi3uQNRy-69gUdwp2jw2Sa_l2JgdZHl9oSehORQ=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV Imaculada
@@ -37,6 +37,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="Canais | ABERTO",TV Aparecida HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/551
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
 https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
