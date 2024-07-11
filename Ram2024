@@ -116,6 +116,8 @@ http://abc.embedmax.site/multishow/index.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/430
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoSNG_RlRo4r90YgJzpPhW3PJcxse_uFPRw&s" group-title="Canais ",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iG0a139LGSxEPv0qPSUZ9D39WPhYP-_6HA&s" group-title="Canais 
+https://cdn-4.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/556/797/png-clipart-rock-and-roll-music-rock-and-roll-music-alternative-rock-rock-logo-musician.png" group-title="Canais | VARIEDADES",Music Rock 
 https://cdn-4.nxplay.com.br/SCH_TK/index.m3u8
