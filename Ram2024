@@ -116,16 +116,16 @@ http://abc.embedmax.site/multishow/index.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/430
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoSNG_RlRo4r90YgJzpPhW3PJcxse_uFPRw&s" group-title="Canais ",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iG0a139LGSxEPv0qPSUZ9D39WPhYP-_6HA&s" group-title="Canais 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iG0a139LGSxEPv0qPSUZ9D39WPhYP-_6HA&s" group-title="Canais", Music POP
 https://cdn-4.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/556/797/png-clipart-rock-and-roll-music-rock-and-roll-music-alternative-rock-rock-logo-musician.png" group-title="Canais | VARIEDADES",Music Rock 
 https://cdn-4.nxplay.com.br/SCH_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/03/5d/16078/1/c300.png" group-title="Canais | VARIEDADES",Music Hits
-https://cdn-4.nxplay.com.br/CLASSICHITS_TK/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lm2iloxeH_3NooeI0kt3CgYljZ6MievX-LEpbCHaVcbg=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",Classic Hits
 https://cdn-4.nxplay.com.br/HITTS_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lm2iloxeH_3NooeI0kt3CgYljZ6MievX-LEpbCHaVcbg=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",Classic Hits
+https://cdn-4.nxplay.com.br/CLASSICHITS_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1200px-Top_TV_logo.svg.png" group-title="Canais | VARIEDADES",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg" group-title="Canais | VARIEDADES",Kiss TV
