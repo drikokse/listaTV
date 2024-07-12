@@ -106,7 +106,7 @@ https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 http://abc.embedmax.site/nationalgeographic/index.m3u8
 
-#EXTINF:-1 tvg-name=" investigação ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",ID HD 
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",ID HD 
 https://cdn-4.nxplay.com.br/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
