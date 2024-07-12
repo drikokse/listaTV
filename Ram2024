@@ -1,12 +1,7 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/xml/69wkngjm97bz5ejjyq8g,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
-
 ################################# CANAIS #################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
@@ -59,7 +54,7 @@ https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 http://t2tp.xyz:80/343963665/370954400/71397
 
 
-#EXTINF:-1 tvg-id="fkids.br" tvg-chno="050" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", FoxKids HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
