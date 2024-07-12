@@ -52,7 +52,7 @@ http://abc.embedmax.site/gloob/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 http://abc.embedmax.site/discoverykids/index.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast HD" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBW07WnRKt92BEYhRJEKhXAmlr_-kWQG-5A&s" group-title="Canais | INFANTIL",TV RA TIM BUM HD
