@@ -45,18 +45,20 @@ https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
-http://abc.embedmax.site/nickelodeon/index.m3u8
+http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
 http://abc.embedmax.site/gloob/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 http://abc.embedmax.site/discoverykids/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
+#EXTINF:-1 tvg-id="Tooncast HD" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBW07WnRKt92BEYhRJEKhXAmlr_-kWQG-5A&s" group-title="Canais | INFANTIL",TV RA TIM BUM HD
 http://t2tp.xyz:80/343963665/370954400/71397
+#EXTINF:-1 tvg-id="Nick jr." tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
+http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
@@ -181,7 +183,7 @@ https://cdn-4.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
 #EXTINF:-1 tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
-https://abc.embedmax.site/paramountnetwork/index.m3u8
+http://cdn2.connectbr.com.br:80/paramount/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
