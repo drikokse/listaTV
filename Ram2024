@@ -31,7 +31,7 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="Canais | ABERTO",TV Aparecida HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais | ABERTO",TV Aparecida HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/551
@@ -43,15 +43,15 @@ https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
 http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
 http://abc.embedmax.site/gloob/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 http://abc.embedmax.site/discoverykids/index.m3u8
-#EXTINF:-1 tvg-id="Nick jr." tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
+#EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBW07WnRKt92BEYhRJEKhXAmlr_-kWQG-5A&s" group-title="Canais | INFANTIL",TV RA TIM BUM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
 http://t2tp.xyz:80/343963665/370954400/71397
 
 
@@ -65,7 +65,7 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 https://mycdn.delivery/sportv/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | INFANTIL",Globo News FHD
+#EXTINF:-1 tvg-id="Globo News" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="Canais | INFANTIL",Globo News FHD
 http://abc.embedmax.site/globonews/index.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
 https://cdn.connectbr.com.br/Record-News-HD/index.m3u8
@@ -75,11 +75,11 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/512px-Canal_Viva_2018_wordmark.svg.png" group-title="Canais | NOVELAS",ViVA HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/114
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",Canal Futura
 http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
-#EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Canais | VARIEDADES",MTV HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
@@ -92,7 +92,7 @@ https://abc.embedmax.site/premiere1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canais | VARIEDADES",Discovery Channel HD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Canais | VARIEDADES",HGTV HD
 https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
@@ -149,7 +149,7 @@ https://isaocorp.cloudecast.com/kisstv/index.m3u8
 
 ############################################################################ Canais | FILMES E SERIES
 
-EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | VARIEDADES",Canal Brasil 
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31063
 #EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/sony+movies+logo.png/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng==?width=1200" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
@@ -185,10 +185,10 @@ http://cdn2.connectbr.com.br:80/paramount/tracks-v1a1/mono.m3u8
 http://dzcdn.vood.top:80/hls/711_.m3u8
 
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://mycdn.delivery/space/index.m3u8 
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/271
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
 https://cdn-4.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -208,7 +208,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/309
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298
-#EXTINF:-1 tvg-id="TCM" tvg-name="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/292
 
 
@@ -250,7 +250,7 @@ https://mycdn.delivery/zoomoo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
 https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
@@ -320,7 +320,7 @@ https://5cf4a2c2512a2.streamlock.net/8272/8272/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://toptv2.com:25461/logos/TV_Pai_Eterno.png" group-title="TV ABERTA",TV PAI ETERNO
 http://89.45.12.66:8080/live/toptv_207670/LgNXVm3I/41861.m3u8
 
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO",TV Rede Vida HD
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Canais | ABERTO",TV Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
