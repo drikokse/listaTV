@@ -48,7 +48,7 @@ http://abc.embedmax.site/gloob/index.m3u8
 http://abc.embedmax.site/discoverykids/index.m3u8
 #EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
+#EXTINF:-1 tvg-id="ratimbum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
 http://t2tp.xyz:80/343963665/370954400/71397
 
 
@@ -56,9 +56,8 @@ http://t2tp.xyz:80/343963665/370954400/71397
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV HD
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/98
 #EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/290px-Logotipo_da_GloboNews.png" group-title="Canais | Notícias",Globo News HD
@@ -83,9 +82,8 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
 http://abc.embedmax.site/sportv1/index.m3u8
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://abc.embedmax.site/sportv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",Premiere Clubes 
 https://abc.embedmax.site/premiere1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canais | VARIEDADES",Discovery Channel HD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Canais | VARIEDADES",HGTV HD
