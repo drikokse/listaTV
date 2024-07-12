@@ -56,15 +56,15 @@ http://t2tp.xyz:80/343963665/370954400/71397
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV HD
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/352
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/98
 #EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/290px-Logotipo_da_GloboNews.png" group-title="Canais | Notícias",Globo News HD
 http://abc.embedmax.site/globonews/index.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
+#EXTINF:-1 tvg-id="Recordnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/250px-Record_News_logo_2023.svg.png" group-title="Canais | NOTÍCIAS",Record News HD
 https://cdn.connectbr.com.br/Record-News-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
+#EXTINF:-1 tvg-id="Jovempannews" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -230,8 +230,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/267
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/239
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/352
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | FILMES E SERIES",cine canal
