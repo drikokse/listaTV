@@ -171,18 +171,14 @@ https://mycdn.delivery/fx/index.m3u8
 https://mycdn.delivery/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 https://mycdn.delivery/amc/index.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
+#EXTINF:-1 tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
 https://mycdn.delivery/starchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 https://mycdn.delivery/paramountnetwork/index.m3u8
-
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://dzcdn.vood.top:80/hls/711_.m3u8
-
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://mycdn.delivery/space/index.m3u8 
-
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 https://mycdn.delivery/megapix/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
@@ -206,7 +202,7 @@ https://mycdn.delivery/telecinecult/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
 https://mycdn.delivery/tcm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
-https://mycdn.delivery/tlc/index.m3u8
+https://cdn-4.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
@@ -220,7 +216,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/261
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/256
 
-#EXTINF:-1 id="HBO+" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="Canais | FILMES E SERIES",HBO+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="Canais | FILMES E SERIES",HBO+
 https://mycdn.delivery/hboplus/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
