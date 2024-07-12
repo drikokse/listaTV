@@ -91,7 +91,7 @@ https://mycdn.delivery/Discoveryworld/index.m3u8
 https://mycdn.delivery/discoveryturbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Canais | VARIEDADES",Discovery Theater HD
 https://mycdn.delivery/discoverytheater/index.m3u8
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
+#EXTINF:-1 tvg-id="Discoveryheh" tvg-name="Disc. Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" group-title="Canais | VARIEDADES",Disc. Home & Health 
 https://mycdn.delivery/discoveryheh/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 https://mycdn.delivery/nationalgeographic/index.m3u8
@@ -205,6 +205,8 @@ https://mycdn.delivery/telecinetouch/index.m3u8
 https://mycdn.delivery/telecinecult/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
 https://mycdn.delivery/tcm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
+https://mycdn.delivery/tlc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
@@ -218,7 +220,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/261
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/256
 
-#EXTINF:-1 id="HBO+" tvg-name="HBO+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjarWDeiMf92rnVMKmxnO6DjVkcQ-jP9qznQ&s" group-title="Canais | FILMES E SERIES",HBO +
+#EXTINF:-1 id="HBO+" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="Canais | FILMES E SERIES",HBO+
 https://mycdn.delivery/hboplus/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
@@ -232,7 +234,7 @@ https://mycdn.delivery/hboxtreme/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 https://mycdn.delivery/cinemax/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | FILMES E SERIES",cine canal
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinecanal_%282010-2016%29.png/revision/latest/scale-to-width-down/250?cb=20160925222041" group-title="Canais | FILMES E SERIES",cine canal
 https://mycdn.delivery/cinecanal/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO"  tvg-logo="https://i.imgur.com/ee2cQqO.png" group-title= "AFDTV📺GRÁTIS",ZOOMOO
@@ -241,8 +243,6 @@ https://mycdn.delivery/zoomoo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
-https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
 https://watch.vcdn.in/gnt/index.m3u8
