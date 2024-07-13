@@ -151,6 +151,8 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | MÚSICA",Hallo Music
+https://cdn-4.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 
 
@@ -242,6 +244,16 @@ https://mycdn.delivery/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinecanal_%282010-2016%29.png/revision/latest/scale-to-width-down/250?cb=20160925222041" group-title="Canais | FILMES E SERIES",cine canal
 https://mycdn.delivery/cinecanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | FILMES",Hallo Classic
+https://cdn-4.nxplay.com.br/HALLOCLASSIC/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | FILMES",Hallo Movies
+https://cdn-4.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | SÉRIES",Hallo Series
+https://cdn-4.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES & GEEK",Hallo Anime HD
+https://cdn-4.nxplay.com.br/HALLOANIME/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO"  tvg-logo="https://i.imgur.com/ee2cQqO.png" group-title= "AFDTV📺GRÁTIS",ZOOMOO
 https://mycdn.delivery/zoomoo/index.m3u8
