@@ -8,12 +8,11 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP
 https://abc.embedmax.site/globoSP/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
+https://abc.embedmax.site/record/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
 https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
-https://live-as-10-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIwODQ1MjIyLCJpYXQiOjE3MjA3NTg4MjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiODExZjNhODYtNmFiZS00NGM1LWI4ZTAtNWQxNzc0YmQxNjk4IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tbW9jL3BsYXlsaXN0Lm0zdTgifQ.qmjvLAVWyYWRUA_cEWCcVLjQSObWTOTrLEZyqMckJ4IN6ZLqd-0IcVhI4pDbETpIcwJBUsEat51JCkZUYyzB3l5MD1JlONNq_ffFS7gpAzwgwH-kBk7eKsL9bIpdEgceNm4S8lzmVLuZRKLJA0dA9b9-9ZtSwzgkk142Q4j3kzhGx9otkn6OxoW3hKGcuAk0W4jzlRdQrgdheqicQfohl30mGJZD81K8_sKSpR9tsM9aNqal9aiGP6D9HkdEUM31pGunaHYRnQJm6RSSkcghCPxC4MTnIp-UdWRKDtt1I6O4B_qnF2gguv4zL4cJqOjqi-AymNvhR-LnA82M1E9KkQ/nu/f(i=2)/globo-rj/playlist.m3u8
-
+https://abc.embedmax.site/band/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
 https://alanza.iptv2022.com/RedeTV/index.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
