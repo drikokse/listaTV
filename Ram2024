@@ -10,7 +10,7 @@ https://abc.embedmax.site/globoSP/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://embedflix.info/p2p/record/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
-https://embedflix.info/p2p/globo/playlist.m3u8?wmsAuthSign=undefined
+https://embedflix.info/p2p/sbt/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://embedflix.info/p2p/bandsp/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
@@ -125,7 +125,8 @@ https://cdn-4.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/556/797/png-clipart-rock-and-roll-music-rock-and-roll-music-alternative-rock-rock-logo-musician.png" group-title="Canais | VARIEDADES",Music Rock 
 https://cdn-4.nxplay.com.br/SCH_TK/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/03/5d/16078/1/c300.png" group-title="Canais | Polidoro TV
+https://stmv2.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/03/5d/16078/1/c300.png" group-title="Canais | VARIEDADES",Music Hits
 https://cdn-4.nxplay.com.br/HITTS_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lm2iloxeH_3NooeI0kt3CgYljZ6MievX-LEpbCHaVcbg=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",Classic Hits
@@ -136,6 +137,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg" group-title="Canais | VARIEDADES",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
+
 
 
 
