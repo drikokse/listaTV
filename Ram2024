@@ -38,7 +38,7 @@ https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://mycdn.delivery/discoverykids/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon 
-http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
+https://anonstream.eu/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
 http://abc.embedmax.site/gloob/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
@@ -47,14 +47,12 @@ https://abc.embedmax.site/gloobinho/index.m3u8
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
 https://anonstream.eu/cartoonito/index.m3u8
-
-
 #EXTINF:-1 tvg-id="ratimbum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
 http://t2tp.xyz:80/343963665/370954400/71397
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "AFDTV📺GRÁTIS",ADULT SWIM
-http://abc.embedmax.site/trutv/index.fmp4.m3u8
+https://anonstream.eu/adultswim/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
@@ -175,7 +173,7 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
-http://abc.embedmax.site/canalbrasil/index.m3u8
+https://anonstream.eu/canalbrasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1200?cb=20190917082854" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
