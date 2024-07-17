@@ -176,7 +176,7 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
 http://abc.embedmax.site/canalbrasil/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSony_Movies&psig=AOvVaw2CxYZ9DLoeCWNU6DF2OihR&ust=1721283854162000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCj-Ji4rYcDFQAAAAAdAAAAABAE" group-title="Canais | FILMES E SERIES",Sony Movies HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1200?cb=20190917082854" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 https://cdn-4.nxplay.com.br/TNT_SERIES_TK/index.m3u8
@@ -203,7 +203,7 @@ https://mycdn.delivery/primeboxbrazil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 https://mycdn.delivery/amc/index.m3u8
-#EXTINF:-1 tvg-id="STAR" tvg-name="STAR" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
+#EXTINF:-1 tvg-id="starchannel" tvg-name="starchannel" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
 https://mycdn.delivery/starchannel/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD 
 https://mycdn.delivery/paramountnetwork/index.m3u8
