@@ -229,8 +229,7 @@ https://mycdn.delivery/telecinefun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
 https://mycdn.delivery/telecinetouch/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD                          
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD                        
 https://mycdn.delivery/telecinecult/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
 https://mycdn.delivery/tcm/index.m3u8
