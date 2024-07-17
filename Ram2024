@@ -320,6 +320,17 @@ http://abc.embedmax.site/gnt/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
 https://cdn-4.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família 
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Canais | FILMES",Runtime Cine Espanto
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Canais | FILMES",Runtime Crime
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Ficção Científica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
