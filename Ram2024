@@ -22,6 +22,10 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://anonstream.eu/globosp-globosaopaulo/index.m3u8
+telecinepipoca/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rSSyJwWxUwfeGCiYLCSGzps0U5nCs8dGudzgbi3uQNRy-69gUdwp2jw2Sa_l2JgdZHl9oSehORQ=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV Imaculada
@@ -55,6 +59,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://cdn-4.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "AFDTV📺GRÁTIS",ADULT SWIM
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
@@ -193,7 +199,7 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
-https://anonstream.eu/canalbrasil/index.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/237
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1200?cb=20190917082854" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
@@ -241,7 +247,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/306
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 https://mycdn.delivery/telecineaction/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://mycdn.delivery/telecinepipoca/index.m3u8
+https://anonstream.eu/telecinepipoca/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 https://mycdn.delivery/telecinefun/index.m3u8
