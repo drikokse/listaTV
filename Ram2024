@@ -161,8 +161,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | MÚSICA",Hallo Music
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title= "MÚSICA",Hallo Music
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ea2b6bc27b0b1e9084891a8c0b94a634dcbbbd03051ab39ea145d8ff43244df3.png" group-title= "MÚSICA",Hallo Music
 https://cdn-4.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais | FILMES E SERIES",Bora Filmes
