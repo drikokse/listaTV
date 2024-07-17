@@ -10,7 +10,7 @@ https://anonstream.eu/globopr-rpccuritiba/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://mycdn.delivery/record/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
-https://aovivo.maissbt.com/index.m3u8
+https://mycdn.delivery/sbt/index.m3u8
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://abc.embedmax.site/band/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
@@ -210,7 +210,8 @@ https://mycdn.delivery/universaltv/index.m3u8
 https://cdn-4.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+https://cdn-4.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN 
 https://mycdn.delivery/axn/index.m3u8
@@ -244,12 +245,15 @@ EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu
 https://brflu.walk-tv.com/5897/index.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/306
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD [Alter]
+http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/294
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/304
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD Alternativo
+https://abc.embedmax.site/tcpipoca/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301
 
@@ -258,6 +262,9 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/310
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD                          
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298
+
+
+https://abc.embedmax.site/tcpipoca/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
 https://mycdn.delivery/tcm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
