@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP
 https://anonstream.eu/globopr-rpccuritiba/index.m3u8
