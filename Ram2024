@@ -49,7 +49,7 @@ http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ratimbum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
-https://anonstream.eu/ratimbum/index.m3u8
+https://cdn-1.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "AFDTV📺GRÁTIS",ADULT SWIM
@@ -173,8 +173,8 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/237
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1200?cb=20190917082854" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 https://mycdn.delivery/tntseries/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal TV
@@ -253,7 +253,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/261
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/256
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="Canais | FILMES E SERIES",HBO+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/files/104379/266x177/434ac9cf6b/claro-2409-zigzag-hbo-hbo-plus.jpg/m/filters:quality(75)" group-title="Canais | FILMES E SERIES",HBO+
 https://mycdn.delivery/hboplus/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
