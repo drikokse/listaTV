@@ -2,6 +2,95 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTINF:-1 tvg-name="" tvg-id="HBO.br" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/255
+
+#EXTINF:-1 tvg-id="HBOFamily.br" group-title="Brazil 🇧🇷" tvg-logo="https://imgur.com/2dINPFY.png",HBO Family
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/253
+
+
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" group-title="Brazil 🇧🇷" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium
+http://fzcdn.vood.top:80/hls/633_.m3u8
+
+
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="Brazil 🇧🇷" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/0/01/Telecine_Touch_2019.svg",Telecine touchᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/310
+
+
+#EXTINF:-1 tvg-id="TELECINEFUN" group-title="Brazil 🇧🇷" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png",Telecine Funᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301
+
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Telecine_Action_%282021%29.png",Telecine Actionᴴᴰ 🇧🇷
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/295
+
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Telecine_Pipoca_%282021%29.png",Telecine Pipocaᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/304
+
+#EXTINF:-1 tvg-name="" tvg-id="Megapix.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png",Megapixᴴᴰ 🇧🇷
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/271
+
+
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" group-title="Brazil 🇧🇷" tvg-logo="https://imgur.com/IaxysZJ.png",AXNᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMCᴴᴰ 🇧🇷
+http://148.113.160.49:14009/AMC
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMCᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AE.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&Eᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AE.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png",A&Eᴴᴰ 🇧🇷🇲🇽
+http://148.113.160.49:14001/A&E
+
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyChannel.png",Sony Channelᴴᴰ 🇧🇷 
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.br" group-title="Brazil 🇧🇷" tvg-logo="http://i.imgur.com/qOWul1m.png",Warner Channelᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
+#EXTINF:-1 tvg-id="WarnerChannel.br" group-title="Brazil 🇧🇷" tvg-logo="http://i.imgur.com/qOWul1m.png",Warner Channelᴴᴰ 🇧🇷🇺🇸 
+http://148.113.160.49:14761/WarnerChannel
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-id="TNT Séries.br" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷🇺🇸 
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-id="TNTNOVELAS" group-title="Brazil 🇧🇷" tvg-logo="http://i.imgur.com/wBvHWB7.png",TNT Novelasᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FX.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇧🇷🇺🇸 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/244
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE"  group-title="Brazil 🇧🇷" tvg-logo="https://imgur.com/RxETCgZ.png",Spaceᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg",CineMaxᴴᴰ 🇧🇷 
+http://148.113.160.49:14113/CineMax
+
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universalᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/289
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universalᴴᴰ 🇧🇷 
+http://dzcdn.vood.top:80/hls/711_.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/star-channel-pt.png",Star Channelᴴᴰ 🇧🇷
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
+
+
+#EXTINF:-1 tvg-id="Lifetime.br" group-title="Brazil 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime 🇧🇷
+http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" group-title="Brazil 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime 🇧🇷
+https://cdn2.connectbr.com.br/life/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VIVA" tvg-id="VIVA" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Viva_2018_wordmark.svg",Vivaᴴᴰ 🇧🇷
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/114
+
+#EXTINF:-1 tvg-name="Multishow" tvg-id="Multishow.br" group-title="Brazil 🇧🇷" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishowᴴᴰ 🇧🇷 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/423
+#EXTINF:-1 tvg-name="Multishow" tvg-id="Multishow.br" group-title="Brazil 🇧🇷" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png",Multishowᴴᴰ 🇧🇷 
+https://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP
 https://anonstream.eu/globopr-rpccuritiba/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
