@@ -166,13 +166,54 @@ https://ice.fabricahost.com.br/topfm1041sp?f=1715782399N01HXY9KD896G53R4FZ2J7A8Q
 https://stm3.xcast.com.br:10936/sid=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" group-title="Canais | VARIEDADES",Clube FM Brasilia 
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/a0/dc/5442/c300.png" group-title="Canais | VARIEDADES",Caioba 102.3 FM PR
+https://servidor35-3.brlogic.com:7094/live?source=7066
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_arapuanfm953.png" group-title="Canais | VARIEDADES",Arapuan FM
+https://streaming.engelhosting.com.br:10026/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLXumTT2i_UqOhFTad7V3cxr9V5RhbyYFoQ&s" group-title="Canais | VARIEDADES",Gazeta 88.1 FM
+https://shout25.crossradio.com.br:18002/stream?1716044616728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/Logotipo_da_Tropical_FM_%28SP%29.png" group-title="Canais | VARIEDADES",Tropital 107.9 FM
+https://stream2.svrdedicado.org/8500/stream/1/
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13908_1721435340.jpg" group-title="Canais | VARIEDADES",Imaculada 1490 AM
+https://caikron.com.br:8000/stream
 #EXTINF:-1 tvg-logo="https://radio9dejulho.com.br/wp-content/uploads/2022/08/logo-radio.png" group-title="Canais | VARIEDADES",9 de Julho 1600 
 https://stm10.voxhd.com.br:9700/listen.pls;/
+#EXTINF:-1 tvg-logo="https://lira.ipe.org.br/images/radio-aparecida-fm-1042-de-aparecida-do-norte-sp-ao-vivo-radiocol-brasil.png" group-title="Canais | VARIEDADES",Rádio Aparecida 
+https://cdn.live.br1.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/radiofacil-upload/2195/editor/8bdfae7b43d093e52d7e4a8d826e9bd0.png" group-title="Canais | VARIEDADES",Católica Rádio
 https://servidor38-3.brlogic.com:8176/live?source=website
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio15275_1479296793.png" group-title="Canais | VARIEDADES",Santíssimo FM 
 http://paineldj6.com.br:12155/stream?1717975746855
+
+#EXTINF:-1 tvg-logo="https://jpimg.com.br/uploads/2024/02/avatar-curitiba-rgb-500x500.png" group-title="Canais | VARIEDADES",JP FM Curitiba 
+https://r15.ciclano.io:14417/live
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5AdJGq3flHwYVlmcHKXL494rWKq3DD5W44aW2odZP2IjTYe3qBddHQUwx4qe8wPt3wQ=w600-h300-pc0xffffff-pd" group-title="Canais | VARIEDADES",Metropolitana 98.5 FM SP
+https://ice.fabricahost.com.br/metropolitana985sp?f=1721617967N01J3C6TT4KSYRA82DX5SKNERAP&tid=01J2XQRNZB1XW30E1VVBEMT0ZM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/23/Logotipo_da_Mix_FM_Curitiba.png" group-title="Canais | VARIEDADES",Mix 98.3 Curitiba
+https://27393.live.streamtheworld.com/MIXFM_CURITIBAAAC.aac?dist=mix-web-player-radio-ao-vivo&433883.6330967415
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12826_1694429090.jpg" group-title="Canais | VARIEDADES",Disney 91.3 FM SP
+https://27373.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1721618276138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1200px-R%C3%A1dio_Rock_logo.svg.png" group-title="Canais | VARIEDADES",89 A Rádio Rock SP
+https://24253.live.streamtheworld.com/RADIO_89FM_SC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKt-6duR4FBsbHN__ZoCfO8Fud5Q3e1Ep8A&s" group-title="Canais | VARIEDADES",89 a Rádio Rock GO
+https://ice.fabricahost.com.br/89aradiorockgo?f=1716127560N01HY8JRWX5VQB03M583YYW8W7C&tid=01HTDD1D5XWEAX368DAPQG40FX
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5cb16f4ba6ee0.jpg" group-title="Canais | VARIEDADES",Alpha 101.7 FM SP
+https://www.dailymotion.com/cdn/live/video/x82yivf.m3u8?sec=pviH032lVPdgSM7-tNUiCshKRliRMar6AB6kj2R6cE1Wv-hQkFgpiZB4blpx5eSe&dmTs=300487&dmV1st=85e32a3b-dfba-4bb5-9145-6400111ccf3c
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8407974fe06d57f7ed35d7f16d" group-title="Canais | VARIEDADES",Ouro Verde Curitiba
+https://servidor18-1.brlogic.com:7484/live?source=1959
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Antena_1_logo.png" group-title="Canais | VARIEDADES",Antena 1 94.7 FM SP
+https://antenaone.crossradio.com.br/stream/1;?1721619061956
+#EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-350x350.png" group-title="Canais | VARIEDADES", Estilo FM
+https://cloud1.cdnseguro.com:20492/stream
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/6647d5b41e0f4.jpg" group-title="Canais | VARIEDADES",Apolo 98.1 FM
+https://server3.dacsolution.com.br/98.1/player/?1721618930110
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoSNG_RlRo4r90YgJzpPhW3PJcxse_uFPRw&s" group-title="Canais ",Agito max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 
@@ -501,3 +542,4 @@ https://i.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
 
 EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Canais: 24Horas", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
+################################# FILMES E SERIES #################################
