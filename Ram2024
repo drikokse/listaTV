@@ -175,11 +175,11 @@ https://shout25.crossradio.com.br:18002/stream?1716044616728
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/Logotipo_da_Tropical_FM_%28SP%29.png" group-title="Canais | VARIEDADES",Tropital 107.9 FM
 https://stream2.svrdedicado.org/8500/stream/1/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANWF_CZVO_rQIX4f1pbmKc7hYNAB__RMsw&s" group-title="Canais | VARIEDADES"Massa 92.9 SP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANWF_CZVO_rQIX4f1pbmKc7hYNAB__RMsw&s" group-title="Canais | VARIEDADES",Massa 92.9 SP
 https://stm01.virtualcast.com.br:8000/massasaopaulo?1721622749122
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CR7DLU2W0AAC0HU.png" group-title="Canais | VARIEDADES"105 FM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CR7DLU2W0AAC0HU.png" group-title="Canais | VARIEDADES",105 FM
 https://www.appradio.app:8010/live?1720624763853
-#EXTINF:-1 tvg-logo="https://webplayer.transcontinentalfm.com.br/img/share.jpg" group-title="Canais | VARIEDADES"Transcontinental 104.7 FM
+#EXTINF:-1 tvg-logo="https://webplayer.transcontinentalfm.com.br/img/share.jpg" group-title="Canais | VARIEDADES",Transcontinental 104.7 FM
 https://ice.fabricahost.com.br/transcontinentalsp48?f=1721622405N01J3CB289Y7V0D2PJVR0M0ZCR9&tid=01J2XQPTVKMQJVWB0S5RXS4HHY
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13908_1721435340.jpg" group-title="Canais | VARIEDADES",Imaculada 1490 AM
@@ -201,7 +201,7 @@ https://ice.fabricahost.com.br/metropolitana985sp?f=1721617967N01J3C6TT4KSYRA82D
 
 #EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/e8/10/156402/2/c300.png" group-title="Canais | VARIEDADES",Mix 98.3 Curitiba
 https://27393.live.streamtheworld.com/MIXFM_CURITIBAAAC.aac?dist=mix-web-player-radio-ao-vivo&433883.6330967415
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5e7b5d50bee47a8a2b396059?ops=gravity(%22center%22),contain(1200,675),quality(65)" group-title="Canais | VARIEDADES"WHTZ 100.3 FM New York 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5e7b5d50bee47a8a2b396059?ops=gravity(%22center%22),contain(1200,675),quality(65)" group-title="Canais | VARIEDADES",WHTZ 100.3 FM New York 
 https://n20b-e2.revma.ihrhls.com/zc1469?1718978724057=&rj-tok=AAABkDsm8KoAwVmcqQibK4cnxQ&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12826_1694429090.jpg" group-title="Canais | VARIEDADES",Disney 91.3 FM SP
 https://27373.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1721618276138
@@ -217,14 +217,14 @@ https://www.dailymotion.com/cdn/live/video/x82yivf.m3u8?sec=pviH032lVPdgSM7-tNUi
 https://servidor18-1.brlogic.com:7484/live?source=1959
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Antena_1_logo.png" group-title="Canais | VARIEDADES",Antena 1 94.7 FM SP
 https://antenaone.crossradio.com.br/stream/1;?1721619061956
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63aac656715eb0aefcd90619?ops=gravity(%22center%22),contain(1200,675),quality(65)" group-title="Canais | VARIEDADES"Lite FM 106.7
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63aac656715eb0aefcd90619?ops=gravity(%22center%22),contain(1200,675),quality(65)" group-title="Canais | VARIEDADES",Lite FM 106.7
 https://n0bb-e2.revma.ihrhls.com/zc1477?1721621572011=&rj-tok=AAABkNitl-EAXo8iQ5d9ccRR5Q&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-350x350.png" group-title="Canais | VARIEDADES", Estilo FM
 https://cloud1.cdnseguro.com:20492/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/6647d5b41e0f4.jpg" group-title="Canais | VARIEDADES",Apolo 98.1 FM
 https://server3.dacsolution.com.br/98.1/player/?1721618930110
 
-#EXTINF:-1 tvg-logo="https://scontent.fcgh43-1.fna.fbcdn.net/v/t39.30808-6/352208561_1186935551984640_148233128130165443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Y1YsRweI24Q7kNvgEgAhro&_nc_ht=scontent.fcgh43-1.fna&oh=00_AYApGlSUbInbGTku5mLg7G3BKPj2-ej9FjOgs_ZHd89EYw&oe=66A3A36A" group-title="Canais | VARIEDADES"Transamérica 100.3 FM
+#EXTINF:-1 tvg-logo="https://scontent.fcgh43-1.fna.fbcdn.net/v/t39.30808-6/352208561_1186935551984640_148233128130165443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Y1YsRweI24Q7kNvgEgAhro&_nc_ht=scontent.fcgh43-1.fna&oh=00_AYApGlSUbInbGTku5mLg7G3BKPj2-ej9FjOgs_ZHd89EYw&oe=66A3A36A" group-title="Canais | VARIEDADES",Transamérica 100.3 FM
 https://27383.live.streamtheworld.com/RT_CWB.mp3?1721621720721
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoSNG_RlRo4r90YgJzpPhW3PJcxse_uFPRw&s" group-title="Canais ",Agito max
