@@ -216,7 +216,7 @@ https://24253.live.streamtheworld.com/RADIO_89FM_SC
 https://ice.fabricahost.com.br/89aradiorockgo?f=1716127560N01HY8JRWX5VQB03M583YYW8W7C&tid=01HTDD1D5XWEAX368DAPQG40FX
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5cb16f4ba6ee0.jpg" group-title="Canais | VARIEDADES",Alpha 101.7 FM SP
-https://www.dailymotion.com/cdn/live/video/x82yivf.m3u8?sec=pviH032lVPdgSM7-tNUiCshKRliRMar6AB6kj2R6cE1Wv-hQkFgpiZB4blpx5eSe&dmTs=300487&dmV1st=85e32a3b-dfba-4bb5-9145-6400111ccf3c
+https://24483.live.streamtheworld.com/RADIO_ALPHAFM_SC
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8407974fe06d57f7ed35d7f16d" group-title="Canais | VARIEDADES",Ouro Verde Curitiba
 https://servidor18-1.brlogic.com:7484/live?source=1959
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Antena_1_logo.png" group-title="Canais | VARIEDADES",Antena 1 94.7 FM SP
@@ -294,6 +294,8 @@ https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN 
 https://mycdn.delivery/axn/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 https://cr7v.short.gy/manotv/TNT/Index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
