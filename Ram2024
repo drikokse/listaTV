@@ -46,13 +46,13 @@ http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 https://anonstream.eu/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/kA4PGon37WuLBu7PlME-GazQ2IOtRrCBPm5FjX3Z2qNMBLF_WEh9xNjCFGg8hAeVbikJ4dsBDIV2kFemLF2-c-Vsu5aCRNppV2OE6Kgez1CE4Wk662yf5E604sw" group-title="Canais | INFANTIL",Clubinho 
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1 tvg-id="RETRO CARTOON"  tvg-name="retro Cartoon" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
+#EXTINF:-1 tvg-id="RETRO CARTOON" tvg-name="retro Cartoon" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ratimbum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL", RÁ TIM BUM HD
 https://cdn-4.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
-#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "Aberto",ADULT SWIM
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "Aberto",ADULT SWIM
 http://abc.embedmax.site/trutv/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
