@@ -38,11 +38,11 @@ https://mycdn.delivery/discoverykids/index.m3u8
 http://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
 http://abc.embedmax.site/gloob/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
 https://abc.embedmax.site/gloobinho/index.m3u8
 #EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
+#EXTINF:-1 tvg-id="Boomerang"  tvg-name="Boomerang" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
 https://anonstream.eu/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/kA4PGon37WuLBu7PlME-GazQ2IOtRrCBPm5FjX3Z2qNMBLF_WEh9xNjCFGg8hAeVbikJ4dsBDIV2kFemLF2-c-Vsu5aCRNppV2OE6Kgez1CE4Wk662yf5E604sw" group-title="Canais | INFANTIL",Clubinho 
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
