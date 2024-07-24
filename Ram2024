@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP
 https://anonstream.eu/globopr-rpccuritiba/index.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo Alternativa
-https://iptv.vivatele.com/auth/1.m3u8?token=ynB0vyJ8WO9D8XgqeZDbCRMV-zv7keQ77tBHf3bN0xYBXdT0B9zH0s5qR1CyRgccibjWZrUaz6tpmSgPV0uzHwe5_8fsvHl3TGQS2Ch7sczmz-2GvUiGLJNKj_oVxibtR02hyKBmbZm85uS0HbOLFWCrSuwKwfkuWgi9BF93RkkdPc3WBo0MZIf6tz9rU3tcK49gqaNv4_YUEp3i8NnHSCZivViwPSN0sz3s52yh8eTqUNVo7aqP71OFXZZseom9D1qmguY9m18F_YoZa-vEgJllWM0DQuWEGXayi4cO4-g12P-wjuOVo75QLZes5hS_LLlz4c-WxiJNknN1pCIZxYaGkubxoZNFNsvizXBuFGmYtZoorHHy3lngHpeGx6aB9Tfnelcb_XzZoou4Hrkf7xSbC6TWgXIaUfc-4QvQbAa_Be94YGqz2DVrPgDdKUBYKAChSyId7bx9lKIy4H_8cMJPLsXLKF0wYE5qDQs3re-4iXd0cVjkCFNUWK4f0BkCEGszb8bs0dTptAO6sbx0ptLsvdfjGKSXkLIenJqGZj08xBahiQ8ZiFTyLO5gFfb3KsbsR8ZQAL-A2aEUuHY44W8h3vXsPPodjGQQqLBAsFM
+https://z02.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/528
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
@@ -13,7 +13,7 @@ https://mycdn.delivery/sbt/index.m3u8
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://live-b2.cf.dmcdn.net/sec2(5HB7L5g2XQgmBUrJfTTBwDmSsWux3xxarP2fuFOwZCXawMWB5UXmFB5Q0nREJDRE4VCdesBIjfa2a5h6xkercgsb1OQYguqSuHjdwYblGp4)/cloud/3/x83vbd6/s/live-480.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
-https://live-c.cf.dmcdn.net/sec2(l83f05btnGhhibYDeQ4vCxbiBwtslH98r89X2_uSUX5apYuQRQPICJ4hJhpmTR9Ha654s8pfPTEdTUEc7RsVxfkW8xAJ9tIyAJYUUKwurQA)/dm/3/x8xps0s/d/live-720.m3u8
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário FHD
