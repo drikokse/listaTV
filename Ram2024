@@ -4,6 +4,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP
 https://anonstream.eu/globopr-rpccuritiba/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo Alternativa
+https://iptv.vivatele.com/auth/1.m3u8?token=ynB0vyJ8WO9D8XgqeZDbCRMV-zv7keQ77tBHf3bN0xYBXdT0B9zH0s5qR1CyRgccibjWZrUaz6tpmSgPV0uzHwe5_8fsvHl3TGQS2Ch7sczKlyNanL3_D_OKXdoPgVUBrvtEWbq8Wh62V9oZjOMrzY5DuR1Kl54EGo4BKp2QcdYk4h6-l3WT1KlKWg5FWphV992oM9X25Ngrafpfnu57ODkFYP5fNnQ_9m6YMRl1KiCOB_ykCZkiRsZspM2v0J3VemQPq7KA8l4JLHUOUzhx0qfzMJvUnAzJb00kNs8uFxaCvxQd4WkqObSBq5gnRaM3ELibgp0mWGpRFO3Kf0YnnXowrMfybExRkSVoz-268rMLFMF5D0tAQZTYbqPwgqrMqeifQcBYw7pmMZ-u29yukzkBAwvz8zi6kLBH95iF3fjxk2DlKSfskNCN3PpDNH85eBQ8w0tI6IqNESNoabGfUupFKbe35mmDMGQMTd_BaEDgNWLi8kye9l3--O84eBz894Cxhs1U8rjI4q055yluErHQFln9ByhgS8egHaU-q9QO_EmjaVkKXIcSc79fFYEfxbTdAlouhqANpxeBZS1GEQJLUm6t-Tx_SJ6Yl4UDkbc
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/528
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
