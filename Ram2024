@@ -71,7 +71,7 @@ https://anonstream.eu/globonews/index.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
 https://tv.vidatel.com.br/hls/tvrecordnewshd/live.m3u8
 #EXTINF:-1 tvg-id="TV Jovem Pan News" tvg-name="TV Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jovem_Pan_News.png/200px-Jovem_Pan_News.png" group-title="Canais | NOTÍCIAS",TV Jovem Pan News
-https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="Canais | NOTÍCIAS",Band News HD
