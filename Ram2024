@@ -1,286 +1,192 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kens13/EPG/master/ch_list.json.xml"
-http://rdns.tv:80/19452920/03484478/359110
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E 4K FHDR" tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E 4K FHDR
-http://rdns.tv:80/19452920/03484478/118933
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E FHD
-http://rdns.tv:80/19452920/03484478/4100
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD [H265]" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E FHD [H265]
-http://rdns.tv:80/19452920/03484478/71018
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E HD
-http://rdns.tv:80/19452920/03484478/350107
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD [Alter]" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E HD [Alter]
-http://rdns.tv:80/19452920/03484478/4102
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E SD
-http://rdns.tv:80/19452920/03484478/4103
-#EXTINF:-1 tvg-id="" tvg-name="Acústico Internacional - Clipes" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="Canais | 24 Horas",Acústico Internacional - Clipes
-http://rdns.tv:80/19452920/03484478/359170
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://picfiles.alphacoders.com/712/71289.png" group-title="Canais | 24 Horas",Aladdin
-http://rdns.tv:80/19452920/03484478/358965
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC 4K FHDR" tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC 4K FHDR
-http://rdns.tv:80/19452920/03484478/118934
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
-http://rdns.tv:80/19452920/03484478/3704
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://rdns.tv:80/19452920/03484478/71019
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://rdns.tv:80/19452920/03484478/3705
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC HD [Alter]
-http://rdns.tv:80/19452920/03484478/332400
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC SD
-http://rdns.tv:80/19452920/03484478/4364
-#EXTINF:-1 tvg-id="" tvg-name="Andy Panda" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/fkd2xG.png" group-title="Canais | 24 Horas",Andy Panda
-http://rdns.tv:80/19452920/03484478/358966
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet 4K FHDR
-http://rdns.tv:80/19452920/03484478/115917
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
-http://rdns.tv:80/19452920/03484478/3600
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://rdns.tv:80/19452920/03484478/71020
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://rdns.tv:80/19452920/03484478/3601
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD [Alter]" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD [Alter]
-http://rdns.tv:80/19452920/03484478/332386
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
-http://rdns.tv:80/19452920/03484478/4451
-#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/twswzA.png" group-title="Canais | 24 Horas",Animaniacs
-http://rdns.tv:80/19452920/03484478/358967
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 01 HD" tvg-logo="https://i.imgur.com/ByijOfH.png" group-title=" Canais | PPV",Apple TV+ 01 HD
-http://rdns.tv:80/19452920/03484478/361238
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 02 HD" tvg-logo="https://i.imgur.com/ByijOfH.png" group-title=" Canais | PPV",Apple TV+ 02 HD
-http://rdns.tv:80/19452920/03484478/361239
-#EXTINF:-1 tvg-id="" tvg-name="Area Restrita Aeroporto" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/rd0wE9.png" group-title="Canais | 24 Horas",Area Restrita Aeroporto
-http://rdns.tv:80/19452920/03484478/359157
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 HD
-http://rdns.tv:80/19452920/03484478/4453
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 HD [Alter]
-http://rdns.tv:80/19452920/03484478/332389
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 SD" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="Canais | Documentários",Arte 1 SD
-http://rdns.tv:80/19452920/03484478/49271
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://appcliente.com:8880/images/c1666d95c6e82c452ae8207bb384ebcb.png" group-title="Canais | 24 Horas",As Aventuras de Jackie Chan
-http://rdns.tv:80/19452920/03484478/358968
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Ladybug" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/dDff8P.png" group-title="Canais | 24 Horas",As Aventuras de Ladybug
-http://rdns.tv:80/19452920/03484478/358969
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/7OCsQd.png" group-title="Canais | 24 Horas",As Aventuras de Tintim
-http://rdns.tv:80/19452920/03484478/358970
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Amo2qq.png" group-title="Canais | 24 Horas",As Panteras (Clássico)
-http://rdns.tv:80/19452920/03484478/359123
-#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/YgZwHu.png" group-title="Canais | 24 Horas",As Tartarugas Ninja
-http://rdns.tv:80/19452920/03484478/358971
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN 4K FHDR
-http://rdns.tv:80/19452920/03484478/115530
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
-http://rdns.tv:80/19452920/03484478/3706
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://rdns.tv:80/19452920/03484478/71021
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
-http://rdns.tv:80/19452920/03484478/3707
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN HD [Alter]
-http://rdns.tv:80/19452920/03484478/332401
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN SD
-http://rdns.tv:80/19452920/03484478/4362
-#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/qqCw0I.png" group-title="Canais | 24 Horas",Baby Looney Tunes
-http://rdns.tv:80/19452920/03484478/358972
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis",BabyTV SD
-http://rdns.tv:80/19452920/03484478/25370
-#EXTINF:-1 tvg-id="" tvg-name="Bacamarte e Chumbinho" tvg-logo="https://imagizer.imageshack.com/img922/9797/kME6OB.gif" group-title="Canais | 24 Horas",Bacamarte e Chumbinho
-http://rdns.tv:80/19452920/03484478/358973
-#EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GwELog.png" group-title="Canais | 24 Horas",Bakugan
-http://rdns.tv:80/19452920/03484478/359095
-#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="Band Bahia HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Bahia HD
-http://rdns.tv:80/19452920/03484478/119051
-#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RJ HD
-http://rdns.tv:80/19452920/03484478/119043
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RS HD
-http://rdns.tv:80/19452920/03484478/119047
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP 4K FHDR" tvg-logo="http://lxls.mx:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais | Abertos",Band SP 4K FHDR
-http://rdns.tv:80/19452920/03484478/115621
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP FHD
-http://rdns.tv:80/19452920/03484478/62827
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP HD
-http://rdns.tv:80/19452920/03484478/48945
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP SD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP SD
-http://rdns.tv:80/19452920/03484478/118500
-#EXTINF:-1 tvg-id="" tvg-name="Band Teresina HD" tvg-logo="" group-title="Canais | Abertos",Band Teresina HD
-http://rdns.tv:80/19452920/03484478/364486
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews FHD
-http://rdns.tv:80/19452920/03484478/3558
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews FHD [H265]
-http://rdns.tv:80/19452920/03484478/118366
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews HD
-http://rdns.tv:80/19452920/03484478/3559
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews HD [Alter]
-http://rdns.tv:80/19452920/03484478/332435
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews SD
-http://rdns.tv:80/19452920/03484478/4563
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports FHD
-http://rdns.tv:80/19452920/03484478/4030
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports FHD [H265]
-http://rdns.tv:80/19452920/03484478/71023
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports HD
-http://rdns.tv:80/19452920/03484478/3572
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports HD [Alter]
-http://rdns.tv:80/19452920/03484478/332425
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports SD
-http://rdns.tv:80/19452920/03484478/4504
-#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/X2fNEQ.png" group-title="Canais | 24 Horas",Barbie
-http://rdns.tv:80/19452920/03484478/359111
-#EXTINF:-1 tvg-id="" tvg-name="Barretos 2023" tvg-logo="" group-title=" Canais | PPV",Barretos 2023
-http://rdns.tv:80/19452920/03484478/351326
-#EXTINF:-1 tvg-id="" tvg-name="Batfino" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/MKPFDU.png" group-title="Canais | 24 Horas",Batfino
-http://rdns.tv:80/19452920/03484478/358974
-#EXTINF:-1 tvg-id="" tvg-name="Batman Animated Serie" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ikWxSX.png" group-title="Canais | 24 Horas",Batman Animated Serie
-http://rdns.tv:80/19452920/03484478/358975
-#EXTINF:-1 tvg-id="" tvg-name="Batman do Futuro" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tOpq8k.png" group-title="Canais | 24 Horas",Batman do Futuro
-http://rdns.tv:80/19452920/03484478/358976
-#EXTINF:-1 tvg-id="" tvg-name="Batman e Robin (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/cgTdHe.png" group-title="Canais | 24 Horas",Batman e Robin (Clássico)
-http://rdns.tv:80/19452920/03484478/358977
-#EXTINF:-1 tvg-id="" tvg-name="Batwheels" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/7ccKwD.png" group-title="Canais | 24 Horas",Batwheels
-http://rdns.tv:80/19452920/03484478/359112
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/4h2FRG.png" group-title="Canais | 24 Horas",Ben 10
-http://rdns.tv:80/19452920/03484478/358978
-#EXTINF:-1 tvg-id="" tvg-name="Bicudo o Lobisomen" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/NVCq8R.png" group-title="Canais | 24 Horas",Bicudo o Lobisomen
-http://rdns.tv:80/19452920/03484478/358979
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS FHD
-http://rdns.tv:80/19452920/03484478/4104
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD [H265]" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS FHD [H265]
-http://rdns.tv:80/19452920/03484478/71024
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS HD
-http://rdns.tv:80/19452920/03484478/4106
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD [Alter]" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS HD [Alter]
-http://rdns.tv:80/19452920/03484478/332371
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS SD
-http://rdns.tv:80/19452920/03484478/4107
-#EXTINF:-1 tvg-id="rede.boas.novas.br" tvg-name="Boas Novas" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Aco1pK.png" group-title="Canais | Religiosos",Boas Novas
-http://rdns.tv:80/19452920/03484478/364959
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/XBs0GS.png" group-title="Canais | 24 Horas",Bob Esponja
-http://rdns.tv:80/19452920/03484478/358980
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yhOGXx.png" group-title="Canais | 24 Horas",Bob Zoom
-http://rdns.tv:80/19452920/03484478/358981
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 1 HD
-http://rdns.tv:80/19452920/03484478/261394
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 2 HD
-http://rdns.tv:80/19452920/03484478/261395
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 3 HD
-http://rdns.tv:80/19452920/03484478/261396
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 4 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 4 HD
-http://rdns.tv:80/19452920/03484478/261928
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirao Serie D 1 HD" tvg-logo="" group-title=" Canais | PPV",Brasileirao Serie D 1 HD
-http://rdns.tv:80/19452920/03484478/261929
-#EXTINF:-1 tvg-id="" tvg-name="Cadilac & Dinossauros" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ZrWQ7s.png" group-title="Canais | 24 Horas",Cadilac & Dinossauros
-http://rdns.tv:80/19452920/03484478/358982
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano 01 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Baiano 01 HD
-http://rdns.tv:80/19452920/03484478/224981
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 01 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 01 HD
-http://rdns.tv:80/19452920/03484478/224977
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 02 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 02 HD
-http://rdns.tv:80/19452920/03484478/224976
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 03 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 03 HD
-http://rdns.tv:80/19452920/03484478/224975
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 04 HD" tvg-logo="" group-title=" Canais | PPV",Campeonato Carioca 04 HD
-http://rdns.tv:80/19452920/03484478/361086
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Cearense 01 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Cearense 01 HD
-http://rdns.tv:80/19452920/03484478/224974
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Cearense 02 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Cearense 02 HD
-http://rdns.tv:80/19452920/03484478/224973
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Cearense 03 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Cearense 03 HD
-http://rdns.tv:80/19452920/03484478/224972
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Gaúcho 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fc/Gauchao2022.png" group-title="Canais | Campeonatos Estaduais",Campeonato Gaúcho 01 HD
-http://rdns.tv:80/19452920/03484478/332998
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Gaúcho 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fc/Gauchao2022.png" group-title="Canais | Campeonatos Estaduais",Campeonato Gaúcho 02 HD
-http://rdns.tv:80/19452920/03484478/332999
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Gaúcho 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fc/Gauchao2022.png" group-title="Canais | Campeonatos Estaduais",Campeonato Gaúcho 03 HD
-http://rdns.tv:80/19452920/03484478/333000
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paraibano 01 HD" tvg-logo="http://lxls.mx:80/images/0157692d0c925705627b1070eae19b48.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 01 HD
-http://rdns.tv:80/19452920/03484478/331906
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paraibano 02 HD" tvg-logo="http://lxls.mx:80/images/0157692d0c925705627b1070eae19b48.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 02 HD
-http://rdns.tv:80/19452920/03484478/331907
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 01 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 01 HD
-http://rdns.tv:80/19452920/03484478/224966
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 02 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 02 HD
-http://rdns.tv:80/19452920/03484478/224967
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 03 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 03 HD
-http://rdns.tv:80/19452920/03484478/224968
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 04 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 04 HD
-http://rdns.tv:80/19452920/03484478/343049
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 05 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 05 HD
-http://rdns.tv:80/19452920/03484478/224969
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 06 HD" tvg-logo="https://liebeurl.me/logos/paranaense.png" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 06 HD
-http://rdns.tv:80/19452920/03484478/224970
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 01 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Sergipano 01 HD
-http://rdns.tv:80/19452920/03484478/224980
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 01 HD [Alter]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Sergipano 01 HD [Alter]
-http://rdns.tv:80/19452920/03484478/332964
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://rdns.tv:80/19452920/03484478/13215
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://rdns.tv:80/19452920/03484478/71026
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://rdns.tv:80/19452920/03484478/5977
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD [Alter]
-http://rdns.tv:80/19452920/03484478/332402
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://rdns.tv:80/19452920/03484478/13214
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="" group-title="Canais | Abertos",Canal do Boi HD
-http://rdns.tv:80/19452920/03484478/48961
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Volei 01" tvg-logo="" group-title=" Canais | PPV",Canal do Volei 01
-http://rdns.tv:80/19452920/03484478/364403
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Volei 02" tvg-logo="" group-title=" Canais | PPV",Canal do Volei 02
-http://rdns.tv:80/19452920/03484478/364402
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Volei 03" tvg-logo="" group-title=" Canais | PPV",Canal do Volei 03
-http://rdns.tv:80/19452920/03484478/364401
-#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 01" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title=" Canais | PPV",Canal GOAT 01
-http://rdns.tv:80/19452920/03484478/360914
-#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 02" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title=" Canais | PPV",Canal GOAT 02
-http://rdns.tv:80/19452920/03484478/360915
-#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 03" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title=" Canais | PPV",Canal GOAT 03
-http://rdns.tv:80/19452920/03484478/360916
-#EXTINF:-1 tvg-id="" tvg-name="Canal Receitas Fast HD" tvg-logo="https://s2-globo-play.glbimg.com/_Mb7XD2rdkXSj_AqZU0oKUeTGcA=/0x1080/https://s2-globo-play.glbimg.com/f2PQHmcnYvCspAC3EJulW2x5cRU=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/y/z/dZdN77SqyN8aywFJpVBw/2022-3288-receitas-fast-alternativa-on-air2.jpg" group-title="Canais | Variedades",Canal Receitas Fast HD
-http://rdns.tv:80/19452920/03484478/364392
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
-http://rdns.tv:80/19452920/03484478/3726
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-http://rdns.tv:80/19452920/03484478/71027
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://rdns.tv:80/19452920/03484478/3727
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony HD [Alter]
-http://rdns.tv:80/19452920/03484478/332403
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://rdns.tv:80/19452920/03484478/4346
-#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova HD
-http://rdns.tv:80/19452920/03484478/364960
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Caverna" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/IN8Ktl.png" group-title="Canais | 24 Horas",Capitão Caverna
-http://rdns.tv:80/19452920/03484478/358983
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Harlock" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/AI0jHf.png" group-title="Canais | 24 Horas",Capitão Harlock
-http://rdns.tv:80/19452920/03484478/358984
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta" tvg-logo="https://imagizer.imageshack.com/img924/9238/NBlvuN.gif" group-title="Canais | 24 Horas",Capitão Planeta
-http://rdns.tv:80/19452920/03484478/358985
-#EXTINF:-1 tvg-id="" tvg-name="Careta e Mutreta" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/9PXliM.png" group-title="Canais | 24 Horas",Careta e Mutreta
-http://rdns.tv:80/19452920/03484478/358986
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/cartoon.png" group-title="Canais | Infantis",Cartoon Network 4K FHDR
-http://rdns.tv:80/19452920/03484478/115994
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
-http://rdns.tv:80/19452920/03484478/3860
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-http://rdns.tv:80/19452920/03484478/71028
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
-http://rdns.tv:80/19452920/03484478/3861
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD [Alter]
-http://rdns.tv:80/19452920/03484478/332432
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
-http://rdns.tv:80/19452920/03484478/4536
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
-http://rdns.tv:80/19452920/03484478/3862
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD [H265]
-http://rdns.tv:80/19452920/03484478/71025
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
-http://rdns.tv:80/19452920/03484478/3863
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD [Alter]
-http://rdns.tv:80/19452920/03484478/332433
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
-http://rdns.tv:80/19452920/03484478/4534
-#EXTINF:-1 tvg-id="" tvg-name="Castores Pirados" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/if8pF8.png" group-title="Canais | 24 Horas",Castores Pirados
-http://rdns.tv:80/19452920/03484478/358987
+EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="[+18] Adulto 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 01
+http://rdns.tv:80/19452920/03484478/359180
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="[+18] Adulto 02" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 02
+http://rdns.tv:80/19452920/03484478/359181
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 03" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 03
+http://rdns.tv:80/19452920/03484478/359182
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 04" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 04
+http://rdns.tv:80/19452920/03484478/359183
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 05" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 05
+http://rdns.tv:80/19452920/03484478/359184
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 06" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 06
+http://rdns.tv:80/19452920/03484478/359185
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 07" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 07
+http://rdns.tv:80/19452920/03484478/359186
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 08" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 08
+http://rdns.tv:80/19452920/03484478/359187
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 09" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 09
+http://rdns.tv:80/19452920/03484478/359188
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 10" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 10
+http://rdns.tv:80/19452920/03484478/359189
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 11" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 11
+http://rdns.tv:80/19452920/03484478/359190
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 12" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 12
+http://rdns.tv:80/19452920/03484478/359191
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 13" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 13
+http://rdns.tv:80/19452920/03484478/359192
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 14" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 14
+http://rdns.tv:80/19452920/03484478/359193
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 15" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 15
+http://rdns.tv:80/19452920/03484478/359194
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 16" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 16
+http://rdns.tv:80/19452920/03484478/359195
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 17" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 17
+http://rdns.tv:80/19452920/03484478/359196
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 18" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 18
+http://rdns.tv:80/19452920/03484478/359197
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 19" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 19
+http://rdns.tv:80/19452920/03484478/359198
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 20" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 20
+http://rdns.tv:80/19452920/03484478/359199
+#EXTINF:-1 tvg-id="" tvg-name="[+18] PlayBoy SD FHD" tvg-logo="" group-title="Canais | Adultos",[+18] PlayBoy SD FHD
+http://rdns.tv:80/19452920/03484478/364978
+#EXTINF:-1 tvg-id="" tvg-name="[+18] PlayBoy SD HD" tvg-logo="" group-title="Canais | Adultos",[+18] PlayBoy SD HD
+http://rdns.tv:80/19452920/03484478/364977
+#EXTINF:-1 tvg-id="" tvg-name="[+18] PlayBoy SD SD" tvg-logo="" group-title="Canais | Adultos",[+18] PlayBoy SD SD
+http://rdns.tv:80/19452920/03484478/364976
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Sexy Hot HD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot HD
+http://rdns.tv:80/19452920/03484478/359413
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio" tvg-logo="http://srvdns.fun:80/48246545/11159873/3726190" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
+http://rdns.tv:80/19452920/03484478/266439
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] 105 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4q3MEPnBVM.png" group-title="Rádios",[Rádio] 105 FM
+http://rdns.tv:80/19452920/03484478/35510
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] 181.fm - Power 181 (Top 40)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hpkhvss62db6.png" group-title="Rádios",[Rádio] 181.fm - Power 181 (Top 40)
+http://rdns.tv:80/19452920/03484478/35493
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] 80's Best" tvg-logo="http://lxls.mx:80/images/eed34f6e81a89e33f3bebf85eafec486.png" group-title="Rádios",[Rádio] 80's Best
+http://rdns.tv:80/19452920/03484478/238229
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] 89 FM - A Rádio Rock" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ggK76UMZ39.png" group-title="Rádios",[Rádio] 89 FM - A Rádio Rock
+http://rdns.tv:80/19452920/03484478/35507
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] 98 FM Curitiba" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yMepWbqDF4.png" group-title="Rádios",[Rádio] 98 FM Curitiba
+http://rdns.tv:80/19452920/03484478/35491
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Alpha FM 101.7" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dNEYHQ3z6L.jpg" group-title="Rádios",[Rádio] Alpha FM 101.7
+http://rdns.tv:80/19452920/03484478/238205
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Alvorada FM 94.9" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNPg7Dz5e9.jpeg" group-title="Rádios",[Rádio] Alvorada FM 94.9
+http://rdns.tv:80/19452920/03484478/35483
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Anos 80's" tvg-logo="http://lxls.mx:80/images/c80b06c7bf5633617248c630c09959d1.png" group-title="Rádios",[Rádio] Anos 80's
+http://rdns.tv:80/19452920/03484478/238216
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Antena 1 FM" tvg-logo="http://liebetv.me:8080/images/0738daf4a38cacdace261d30359cbbb7.jpg" group-title="Rádios",[Rádio] Antena 1 FM
+http://rdns.tv:80/19452920/03484478/35524
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Antena 1 Rio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5vCGRAhp28.jpg" group-title="Rádios",[Rádio] Antena 1 Rio
+http://rdns.tv:80/19452920/03484478/35492
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Bahia FM Sul 102.1" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lgr2jaqynfst.png" group-title="Rádios",[Rádio] Bahia FM Sul 102.1
+http://rdns.tv:80/19452920/03484478/35484
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Band FM 96.1 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/p3w9qhjx98qd.png" group-title="Rádios",[Rádio] Band FM 96.1 FM
+http://rdns.tv:80/19452920/03484478/238232
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Band FM Coxim" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9vfepwskevdb.jpg" group-title="Rádios",[Rádio] Band FM Coxim
+http://rdns.tv:80/19452920/03484478/35479
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Beam FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ydthqx5dvp7h.png" group-title="Rádios",[Rádio] Beam FM
+http://rdns.tv:80/19452920/03484478/35517
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] BH FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mkbYJqxK8W.jpg" group-title="Rádios",[Rádio] BH FM
+http://rdns.tv:80/19452920/03484478/238223
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Bossa Jazz Brasil" tvg-logo="http://lxls.mx:80/images/6c95b96431b97d423726f4d96bc99d52.jpeg" group-title="Rádios",[Rádio] Bossa Jazz Brasil
+http://rdns.tv:80/19452920/03484478/238221
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Bossa Nova Brazil" tvg-logo="http://lxls.mx:80/images/5fa445c7e9cc71643dd9bf51348df98a.jpg" group-title="Rádios",[Rádio] Bossa Nova Brazil
+http://rdns.tv:80/19452920/03484478/238203
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] CBN Belo Horizonte" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7MtxEagrtK.jpg" group-title="Rádios",[Rádio] CBN Belo Horizonte
+http://rdns.tv:80/19452920/03484478/35504
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] CBN Rio de Janeiro" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DT5RBWw6J6.png" group-title="Rádios",[Rádio] CBN Rio de Janeiro
+http://rdns.tv:80/19452920/03484478/238222
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] CBN São Paulo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="Rádios",[Rádio] CBN São Paulo
+http://rdns.tv:80/19452920/03484478/35521
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Cidade FM" tvg-logo="http://lxls.mx:80/images/7dbccff7512a15b59ff561216acc7430.jpeg" group-title="Rádios",[Rádio] Cidade FM
+http://rdns.tv:80/19452920/03484478/238227
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Disney" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sUshFLCTf6.png" group-title="Rádios",[Rádio] Disney
+http://rdns.tv:80/19452920/03484478/238230
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Eldorado FM 107.3" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/akAyhMsCqH.png" group-title="Rádios",[Rádio] Eldorado FM 107.3
+http://rdns.tv:80/19452920/03484478/238240
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Electric Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tr4ueqeahjhs.png" group-title="Rádios",[Rádio] Electric Radio
+http://rdns.tv:80/19452920/03484478/35495
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Energia 97 FM" tvg-logo="http://lxls.mx:80/images/b67ecfdb2c98c792f30927087404dac1.png" group-title="Rádios",[Rádio] Energia 97 FM
+http://rdns.tv:80/19452920/03484478/238208
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Feliz FM Rio de Janeiro" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n3hGV9bQ7U.png" group-title="Rádios",[Rádio] Feliz FM Rio de Janeiro
+http://rdns.tv:80/19452920/03484478/35489
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Flashback FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fucraxxslgwf.jpg" group-title="Rádios",[Rádio] Flashback FM
+http://rdns.tv:80/19452920/03484478/238231
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] FM O Dia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mzxnraDf4S.png" group-title="Rádios",[Rádio] FM O Dia
+http://rdns.tv:80/19452920/03484478/238212
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Fortaleza em Cristo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kdqdwqylwrqy.jpg" group-title="Rádios",[Rádio] Fortaleza em Cristo
+http://rdns.tv:80/19452920/03484478/35482
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Gazeta FM" tvg-logo="http://lxls.mx:80/images/4ed1c7722cf8461de555dd0d5ce5e57e.jpg" group-title="Rádios",[Rádio] Gazeta FM
+http://rdns.tv:80/19452920/03484478/238225
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Gaúcha ZH" tvg-logo="http://lxls.mx:80/images/dc147637f5543cece4607ed61dd6c021.jpg" group-title="Rádios",[Rádio] Gaúcha ZH
+http://rdns.tv:80/19452920/03484478/238204
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Geração Funk" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmzvjAbM2h.png" group-title="Rádios",[Rádio] Geração Funk
+http://rdns.tv:80/19452920/03484478/35500
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Geração Samba e Pagode" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Hkpwbf5QCW.png" group-title="Rádios",[Rádio] Geração Samba e Pagode
+http://rdns.tv:80/19452920/03484478/238235
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] GFM Salvador" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/V8ssEqpVTV.png" group-title="Rádios",[Rádio] GFM Salvador
+http://rdns.tv:80/19452920/03484478/35499
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Globo RJ" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="Rádios",[Rádio] Globo RJ
+http://rdns.tv:80/19452920/03484478/238220
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Gospel Adoração" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LEUKJREgR4.png" group-title="Rádios",[Rádio] Gospel Adoração
+http://rdns.tv:80/19452920/03484478/238238
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Gospel FM" tvg-logo="http://lxls.mx:80/images/c9a662f21f2ab3afef42e92e3589b07b.jpeg" group-title="Rádios",[Rádio] Gospel FM
+http://rdns.tv:80/19452920/03484478/238226
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Grenal" tvg-logo="http://lxls.mx:80/images/128249d9c56b49e14ff61de4d5875d81.jpg" group-title="Rádios",[Rádio] Grenal
+http://rdns.tv:80/19452920/03484478/238214
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Guaíba" tvg-logo="http://lxls.mx:80/images/dc54040ea24f8df4544d7b503bbda05f.jpg" group-title="Rádios",[Rádio] Guaíba
+http://rdns.tv:80/19452920/03484478/238228
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Hot Hits UK" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cqfvru9pj7df.png" group-title="Rádios",[Rádio] Hot Hits UK
+http://rdns.tv:80/19452920/03484478/35497
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Hunter.FM - Sertanejo" tvg-logo="http://lxls.mx:80/images/064489b7dda998d5682a2f1725c8bac6.png" group-title="Rádios",[Rádio] Hunter.FM - Sertanejo
+http://rdns.tv:80/19452920/03484478/238215
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] iRock247" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ftnjunvfujey.jpg" group-title="Rádios",[Rádio] iRock247
+http://rdns.tv:80/19452920/03484478/35506
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Itapoan FM 97.5" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7J4UdpRS3z.png" group-title="Rádios",[Rádio] Itapoan FM 97.5
+http://rdns.tv:80/19452920/03484478/35498
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] JB FM 99.9" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TBsVcXCdj4.jpg" group-title="Rádios",[Rádio] JB FM 99.9
+http://rdns.tv:80/19452920/03484478/35511
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Jovem Pan AM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PUenG9e2m6.jpg" group-title="Rádios",[Rádio] Jovem Pan AM
+http://rdns.tv:80/19452920/03484478/35522
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Jovem Pan FM Belo Horizonte" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/krFJ8hN9CS.jpg" group-title="Rádios",[Rádio] Jovem Pan FM Belo Horizonte
+http://rdns.tv:80/19452920/03484478/238236
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Jovem Pan FM Porto Alegre" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk6bcntvemjb.jpg" group-title="Rádios",[Rádio] Jovem Pan FM Porto Alegre
+http://rdns.tv:80/19452920/03484478/35494
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Jovem Pan FM São Paulo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8PgTxpt6Cy.jpg" group-title="Rádios",[Rádio] Jovem Pan FM São Paulo
+http://rdns.tv:80/19452920/03484478/35523
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Jovem Pan News" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9lyuyxwvnyju.png" group-title="Rádios",[Rádio] Jovem Pan News
+http://rdns.tv:80/19452920/03484478/238219
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Kiss FM" tvg-logo="http://lxls.mx:80/images/7157555e0f719cd8bebb3fe99525665c.png" group-title="Rádios",[Rádio] Kiss FM
+http://rdns.tv:80/19452920/03484478/238206
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Liberdade FM 92.9" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dZXmMaTp5u.jpg" group-title="Rádios",[Rádio] Liberdade FM 92.9
+http://rdns.tv:80/19452920/03484478/35501
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Melodia FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/G7UNUU6tHT.png" group-title="Rádios",[Rádio] Melodia FM
+http://rdns.tv:80/19452920/03484478/238233
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Mix FM Rio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cFgTZPpJAA.jpeg" group-title="Rádios",[Rádio] Mix FM Rio
+http://rdns.tv:80/19452920/03484478/238217
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Mix FM São Paulo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png" group-title="Rádios",[Rádio] Mix FM São Paulo
+http://rdns.tv:80/19452920/03484478/35520
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Motel" tvg-logo="http://lxls.mx:80/images/cce0f27f68f90201e8c544a63b6dc5b4.jpg" group-title="Rádios",[Rádio] Motel
+http://rdns.tv:80/19452920/03484478/238218
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Nova Brasil 89.7 SP" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7f7e5fqddmwr.png" group-title="Rádios",[Rádio] Nova Brasil 89.7 SP
+http://rdns.tv:80/19452920/03484478/35509
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Rio Pardo FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ja5pv3bfqryb.png" group-title="Rádios",[Rádio] Rio Pardo FM
+http://rdns.tv:80/19452920/03484478/35477
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Rádio 80 FM" tvg-logo="http://lxls.mx:80/images/d2b505fe421968f782cda25caaa1d32a.jpeg" group-title="Rádios",[Rádio] Rádio 80 FM
+http://rdns.tv:80/19452920/03484478/238209
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Rádio Itatiaia FM" tvg-logo="http://lxls.mx:80/images/ea507b26b348030f921d0cd180239077.png" group-title="Rádios",[Rádio] Rádio Itatiaia FM
+http://rdns.tv:80/19452920/03484478/238211
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Rádio Mania" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ulpu23hhywdn.png" group-title="Rádios",[Rádio] Rádio Mania
+http://rdns.tv:80/19452920/03484478/39399
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Sertaneja Raiz" tvg-logo="http://lxls.mx:80/images/6e7dc5a773b52a99f5610a1ed49de286.jpg" group-title="Rádios",[Rádio] Sertaneja Raiz
+http://rdns.tv:80/19452920/03484478/238224
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Soft Hits FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TSPf5uWnVQ.png" group-title="Rádios",[Rádio] Soft Hits FM
+http://rdns.tv:80/19452920/03484478/35519
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] SulAmérica Paradiso FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sqSufAnQDD.png" group-title="Rádios",[Rádio] SulAmérica Paradiso FM
+http://rdns.tv:80/19452920/03484478/238234
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Super Rádio Tupi" tvg-logo="http://lxls.mx:80/images/627323b18f2f065ee6e45a198329441e.jpg" group-title="Rádios",[Rádio] Super Rádio Tupi
+http://rdns.tv:80/19452920/03484478/238207
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] The Mix Radio 80s" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/syvqf4tpmqhn.png" group-title="Rádios",[Rádio] The Mix Radio 80s
+http://rdns.tv:80/19452920/03484478/35513
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Totally Radio 80s" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3qp8vmresf6k.png" group-title="Rádios",[Rádio] Totally Radio 80s
+http://rdns.tv:80/19452920/03484478/35514
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Transamérica SP" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdyejpeywf3m.jpg" group-title="Rádios",[Rádio] Transamérica SP
+http://rdns.tv:80/19452920/03484478/238210
+#EXTINF:-1 tvg-id="" tvg-name="[Rádio] Vanguarda AM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TwYSAyKdUc.jpeg" group-title="Rádios",[Rádio] Vanguarda AM
+http://rdns.tv:80/19452920/03484478/35488
+#EXTINF:-1 tvg-id="" tvg-name="#ComVocê: Volume: 1 (2021)" tvg-logo="http://lxls.mx:80/images/27b25c9f858d71fe34472ec0b005e630.jpg" group-title="Filmes | Comédia",#ComVocê: Volume: 1 (2021)
+http://rdns.tv:80/movie/19452920/03484478/255745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#NUDES (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3zGn5EOqvb1CxSnkprn6K0SiV3.jpg" group-title="Filmes | Nacionais",#NUDES (2018)
+http://rdns.tv:80/movie/19452920/03484478/157862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#REALITYHIGH" tvg-logo="http://lxls.mx:80/images/e4ff9232ff4b1f1a40f4d0458ae0d7f2.jpg" group-title="Filmes | Comédia",#REALITYHIGH
+http://rdns.tv:80/movie/19452920/03484478/159185.mp4
