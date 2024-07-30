@@ -3,7 +3,7 @@
 https://anonstream.eu/globopr-rpccuritiba/index.m3u8
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Skytvnew2.png/revision/latest?cb=20210507201924" group-title="ESPORTES",Cine SKY
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/754
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
+#EXTINF:-1 tvg-id="RECORDTV HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/528
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
 https://mycdn.delivery/sbt/index.m3u8
