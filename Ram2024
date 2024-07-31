@@ -2,28 +2,21 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RPC Curitiba HD
-https://anonstream.eu/globopr-rpccuritiba/index.m3u8
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Skytvnew2.png/revision/latest?cb=20210507201924" group-title="ESPORTES",Cine SKY
-http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/754
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/528
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT
-https://mycdn.delivery/sbt/index.m3u8
+http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/540
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
-https://dmxleo.dailymotion.com/cdn/manifest/video/x83vbd6.m3u8?auth=1722527135-2562-d8l36b4w-495da8816fcbf8ede16a882485531e4fTGxiGP6hYh3a7pCq_UozHj8rBPIGSNk4EiiG0Y2xMbBHSh4APGsOawBPVii6wnSYXEp21PNWn_Pso9nSa9KVQVHNMg42aXHcQVwMmAFq_rGUziwbIYjAtLRes7TpieNRlkNk4Ubefj7zPU1UeqXoZd0So7nuGr8KDUlQBnKIqAU9ZLo6Mzh_bZTDGcPpA_Lk6ymWGvVSTRrlAXK6jovaiKV81anLRLaWf6T5fdCwFL6YqoNWFj-ERcuni-mEXcqTWZwl-9d-opVD_oQVUBTfMw0WvgJtzfqwP2EpezCJa9eyb-xAqFXAI6b8tNeMBAeA_zfQLcbafS4EADxD63OZWehFQJn85VkOSfDkjx7pJje0_zSdEktZhtXTzBRY5xZyEvCC3mrmyIEVD9x34GIOWqvOn4ZPVtdACUQj9TUESN08XFS8qgQiDezjiyRAGIMXjqsKlkjG6W7dm0_ye2nrY0yiAPgwJTwPYeGbv_pOn4tnOjepFZ0EJSb6rfRC0Pys_TkSlnGRqEUa4a9-iAXfsYeJ9xuwulManbPuLr4Dgd5tAe3zLZuOLmKzAMK71QZWs9qcM3DTWCAjAr8GE96Ce-5tXSA54JZ_h1Q4YmfFQZ4LzYv89iMWTPInwyAThTSWb-iuGhn4rx8DvIPy3I22OLTy6lslmF1vyGyJTsGz9O4YhH9pH8kNlaQsp-QOWFu_H1aw28VbiLBYnXFCJiR7asmKqKFDEKSnD6Gtt7TfCWu2lvhSKcjspOkmjVHr6F-cq3Qfi3Sm4zibBIYLbit9kViH5pB71C929xI4krpyZB_VwP11CBZfhfZbYYHqLaaYpS5ONZKrd0y4wUsCZwfLSWm8Oqr6QyQ9gKyUmObemsftLozAF1x7ldWZJK-9MC-wjbYr6ctH00EBTeW6826dRw0f8EhxQKSxK1d_QexQ9OILwthwdPFqPwTcdsDI0LUWbzsb4sPZvQxctVEl7ZGnVJUo9sTncGdSmCO5A5C-L_HIgL2nv5JwtbR7KsNMJ1jeobCI70CAuOjuLlu11Ou6x-IxMRJ4_2YvFDrPQdZpCED7zaAqZtcA1O0R2bX3JwpTWOZfqKBoeOcOIwqYE8z5A58RuRB-l8ALwgMUQVOrUlYZ4eGn715w_JkqbPIgIo8C8D1qlJr_ies_HneF6H3ZEd0oVc4krHfiE5Zw6cn371NQV4Kt4HTd77Bcb05PxHnxwOQLquGe1XEPyUQMVvBLjHg&af=[APIFRAMEWORKS]&vv=[VASTVERSIONS]&mm=[MEDIAMIME]&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Flistaiptv.gratis%2F
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/548
+
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://embedflix.net/canal/live.php?ch=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
@@ -32,6 +25,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais | ABERTO",TV Aparecida HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webplayer.re/logos/img/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network HD
@@ -120,6 +114,7 @@ https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/88
+Investigação Discovery
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",Investigação Discovery
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Canais | VARIEDADES",Assombrações
@@ -132,10 +127,12 @@ https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
 https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Documentários
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Canais | VARIEDADES",Pluto tv Investigação
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Canais | VARIEDADES",Os Arquivos do FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://supertvaovivo.vip/wp-content/uploads/2021/08/assistir-e-entertainment-ao-vivo.webp" group-title="Canais | VARIEDADES",E! HD
@@ -146,6 +143,7 @@ http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/100
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/274
 #EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
 https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/200px-Logotipo_do_Modo_Viagem.svg.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
@@ -507,3 +505,77 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c65
 #EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais: 24Horas", PATRULHA CANINA
 https://i.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wjb4ogU4G9GC-ckpP0FwH-g8djFPPM1yCHedYBBIPruY3MmpAsR2xVa-kTZXLb4BmQ" group-title="Canais | VARIEDADES",Nativa SP
+https://24153.live.streamtheworld.com/NATIVA_SP_SC
+#EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/Files/bandfm-live.png" group-title="Canais | VARIEDADES",Band 96.1 FM 
+https://live-b2.cf.dmcdn.net/sec2(4D6mKwRgrSiJhbOS84ZumC1qeh3usrtFUpePrSZu78dKzCy53pyrsWzw-LuLxu0fLO7Jnl6ayLc4jleRBpBeIJHmtGJLufDK6EmnFDIz7PY)/cloud/3/x8j4jli/s/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Top_FM.png" group-title="Canais | VARIEDADES",Top 104.1 FM
+https://ice.fabricahost.com.br/topfm1041sp?f=1715782399N01HXY9KD896G53R4FZ2J7A8QXJ&tid=01HSVPE784VQ7MTYK30C0GT6CK
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13124_1704366960.png" group-title="Canais | VARIEDADES",Estereosom 99.9 FM
+https://stm3.xcast.com.br:10936/sid=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" group-title="Canais | VARIEDADES",Clube FM Brasilia 
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/a0/dc/5442/c300.png" group-title="Canais | VARIEDADES",Caioba 102.3 FM PR
+https://servidor35-3.brlogic.com:7094/live?source=7066
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_arapuanfm953.png" group-title="Canais | VARIEDADES",Arapuan FM
+https://streaming.engelhosting.com.br:10026/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLXumTT2i_UqOhFTad7V3cxr9V5RhbyYFoQ&s" group-title="Canais | VARIEDADES",Gazeta 88.1 FM
+https://shout25.crossradio.com.br:18002/stream?1716044616728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/Logotipo_da_Tropical_FM_%28SP%29.png" group-title="Canais | VARIEDADES",Tropital 107.9 FM
+https://stream2.svrdedicado.org/8500/stream/1/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANWF_CZVO_rQIX4f1pbmKc7hYNAB__RMsw&s" group-title="Canais | VARIEDADES",Massa 92.9 SP
+https://stm01.virtualcast.com.br:8000/massasaopaulo?1721622749122
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CR7DLU2W0AAC0HU.png" group-title="Canais | VARIEDADES",105 FM
+https://www.appradio.app:8010/live?1720624763853
+#EXTINF:-1 tvg-logo="https://webplayer.transcontinentalfm.com.br/img/share.jpg" group-title="Canais | VARIEDADES",Transcontinental 104.7 FM
+https://ice.fabricahost.com.br/transcontinentalsp48?f=1721622405N01J3CB289Y7V0D2PJVR0M0ZCR9&tid=01J2XQPTVKMQJVWB0S5RXS4HHY
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13908_1721435340.jpg" group-title="Canais | VARIEDADES",Imaculada 1490 AM
+https://caikron.com.br:8000/stream
+#EXTINF:-1 tvg-logo="https://radio9dejulho.com.br/wp-content/uploads/2022/08/logo-radio.png" group-title="Canais | VARIEDADES",9 de Julho 1600 
+https://stm10.voxhd.com.br:9700/listen.pls;/
+#EXTINF:-1 tvg-logo="https://lira.ipe.org.br/images/radio-aparecida-fm-1042-de-aparecida-do-norte-sp-ao-vivo-radiocol-brasil.png" group-title="Canais | VARIEDADES",Rádio Aparecida 
+https://cdn.live.br1.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/radiofacil-upload/2195/editor/8bdfae7b43d093e52d7e4a8d826e9bd0.png" group-title="Canais | VARIEDADES",Católica Rádio
+https://servidor38-3.brlogic.com:8176/live?source=website
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio15275_1479296793.png" group-title="Canais | VARIEDADES",Santíssimo FM 
+http://paineldj6.com.br:12155/stream?1717975746855
+
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/e8/10/156402/2/c300.png" group-title="Canais | VARIEDADES",JP FM Curitiba 
+https://r15.ciclano.io:14417/live
+#EXTINF:-1 tvg-logo="https://radiomixer.net/images/2022/07/15/xQL3Gy37r5vg5GJ0MFxRQXgv3XSh9xLSmvy2fASc.jpg" group-title="Canais | VARIEDADES",Metropolitana 98.5 FM SP
+https://ice.fabricahost.com.br/metropolitana985sp?f=1721617967N01J3C6TT4KSYRA82DX5SKNERAP&tid=01J2XQRNZB1XW30E1VVBEMT0ZM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/23/Logotipo_da_Mix_FM_Curitiba.png" group-title="Canais | VARIEDADES",Mix 98.3 Curitiba
+https://27393.live.streamtheworld.com/MIXFM_CURITIBAAAC.aac?dist=mix-web-player-radio-ao-vivo&433883.6330967415
+#EXTINF:-1 tvg-logo="https://media.muckrack.com/groups/icons/z100.png" group-title="Canais | VARIEDADES",WHTZ 100.3 FM New York 
+https://n20b-e2.revma.ihrhls.com/zc1469?1718978724057=&rj-tok=AAABkDsm8KoAwVmcqQibK4cnxQ&rj-ttl=5
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_Mundo_Livre_FM.png" group-title="Canais | VARIEDADES",Rádio Mundo Livre
+https://26653.live.streamtheworld.com/MUNDOLIVRE_CWBAAC_64_SC
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12826_1694429090.jpg" group-title="Canais | VARIEDADES",Disney 91.3 FM SP
+https://27373.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1721618276138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1200px-R%C3%A1dio_Rock_logo.svg.png" group-title="Canais | VARIEDADES",89 A Rádio Rock SP
+https://24253.live.streamtheworld.com/RADIO_89FM_SC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKt-6duR4FBsbHN__ZoCfO8Fud5Q3e1Ep8A&s" group-title="Canais | VARIEDADES",89 a Rádio Rock GO
+https://ice.fabricahost.com.br/89aradiorockgo?f=1716127560N01HY8JRWX5VQB03M583YYW8W7C&tid=01HTDD1D5XWEAX368DAPQG40FX
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5cb16f4ba6ee0.jpg" group-title="Canais | VARIEDADES",Alpha 101.7 FM SP
+https://live-b.cf.dmcdn.net/sec2(JqMg5se65cCB55fNljsjDceO13YFrQsLT7wQ432YnfKPCXQXaIZxB-TxllR2W2YFAQWEIl3uDXswZlc9i4hYb0kmD0VxuspdZpyYKfgJqwg)/dm/3/x82yivf/s/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8407974fe06d57f7ed35d7f16d" group-title="Canais | VARIEDADES",Ouro Verde Curitiba
+https://servidor18-1.brlogic.com:7484/live?source=1959
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Antena_1_logo.png" group-title="Canais | VARIEDADES",Antena 1 94.7 FM SP
+https://antenaone.crossradio.com.br/stream/1;?1721619061956
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soVYz2D6qQA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH8CYAC0AWKAgwIABABGHIgWigmMA8=&rs=AOn4CLDdNtXHc-6tUQv8BSIWDGSC5HzwTQ" group-title="Canais | VARIEDADES",Lite FM 106.7
+https://n0bb-e2.revma.ihrhls.com/zc1477?1721621572011=&rj-tok=AAABkNitl-EAXo8iQ5d9ccRR5Q&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-350x350.png" group-title="Canais | VARIEDADES", Estilo FM
+https://cloud1.cdnseguro.com:20492/stream
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/6647d5b41e0f4.jpg" group-title="Canais | VARIEDADES",Apolo 98.1 FM
+https://server3.dacsolution.com.br/98.1/player/?1721618930110
+
+#EXTINF:-1 tvg-logo="https://scontent.fcgh43-1.fna.fbcdn.net/v/t39.30808-6/352208561_1186935551984640_148233128130165443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Y1YsRweI24Q7kNvgEgAhro&_nc_ht=scontent.fcgh43-1.fna&oh=00_AYApGlSUbInbGTku5mLg7G3BKPj2-ej9FjOgs_ZHd89EYw&oe=66A3A36A" group-title="Canais | VARIEDADES",Transamérica 100.3 FM
+https://27383.live.streamtheworld.com/RT_CWB.mp3?1721621720721
