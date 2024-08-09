@@ -17,7 +17,9 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://bccdn.xyz:80/738264983241pw/320184630285/82856
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
-https://anonmedia.eu/globosp/index.m3u8
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://anonmedia.eu/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 1
 https://sportscdn.net/hls/premiere2.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 2
