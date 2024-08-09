@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-0,National Geographic
+#EXTINF:-0,History
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://anonmedia.eu/nationalgeographic/index.m3u8
+https://anonmedia.eu/history/index.m3u8
