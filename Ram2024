@@ -1,25 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
-
-############################################################################ Informações 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",04/08/2024
-http://manoplus.ddns.net/mano.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.jpeg" group-title="PIX/PARA CONTINUA ATUALIZANDO",manotv23@gmail.com
-http://manoplus.ddns.net/mano.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
-http://manoplus.ddns.net/mano.mp4
-
-############################################################################ Canais | ABERTO
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ
-http://186.226.215.132:80/carlos123/carlos123/10
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml"
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP HD
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
