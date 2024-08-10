@@ -10,7 +10,7 @@ https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/540
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
 http://bccdn.xyz:80/738264983241pw/320184630285/69
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
