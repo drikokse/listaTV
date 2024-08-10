@@ -9,7 +9,7 @@ https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/540
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
+#EXTINF:-1 tvg-id="RedeTV! HD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Canais | ABERTO",RedeTV!
 http://bccdn.xyz:80/738264983241pw/320184630285/69
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -21,9 +21,7 @@ http://bccdn.xyz:80/738264983241pw/320184630285/82856
 https://anonmedia.eu/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 1
 https://sportscdn.net/hls/premiere2.m3u8
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 2
-https://anonmedia.eu/discoverytheater/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rSSyJwWxUwfeGCiYLCSGzps0U5nCs8dGudzgbi3uQNRy-69gUdwp2jw2Sa_l2JgdZHl9oSehORQ=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV Imaculada
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
@@ -1475,4 +1473,3 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/519
 
 #EXTINF:-1 tvg-logo="https://scontent.fcgh43-1.fna.fbcdn.net/v/t39.30808-6/352208561_1186935551984640_148233128130165443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Y1YsRweI24Q7kNvgEgAhro&_nc_ht=scontent.fcgh43-1.fna&oh=00_AYApGlSUbInbGTku5mLg7G3BKPj2-ej9FjOgs_ZHd89EYw&oe=66A3A36A" group-title="Canais | VARIEDADES",Transamérica 100.3 FM
 https://27383.live.streamtheworld.com/RT_CWB.mp3?1721621720721
-
