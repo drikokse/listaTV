@@ -27,7 +27,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Canais | INFANTIL",Cartoon HD
 https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tooncast_logo_%282%29.svg/225px-Tooncast_logo_%282%29.svg.png" group-title="Canais | INFANTIL",Tooncast HD
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tooncast_logo_%282%29.svg/225px-Tooncast_logo_%282%29.svg.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
