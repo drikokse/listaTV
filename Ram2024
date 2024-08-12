@@ -33,13 +33,13 @@ https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/220px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Canais | INFANTIL",Nickelodeon HD
 http://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GLOOB" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
+#EXTINF:-1 tvg-id="GLOOB HD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/358
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/360
 #EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Boomerang"  tvg-name="Boomerang" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
+#EXTINF:-1 tvg-id="CARTOONITO HD" tvg-name="CARTOONITO HD" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
 https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/kA4PGon37WuLBu7PlME-GazQ2IOtRrCBPm5FjX3Z2qNMBLF_WEh9xNjCFGg8hAeVbikJ4dsBDIV2kFemLF2-c-Vsu5aCRNppV2OE6Kgez1CE4Wk662yf5E604sw" group-title="Canais | INFANTIL",Clubinho 
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
