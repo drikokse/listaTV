@@ -184,22 +184,22 @@ https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN 
 https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
-https://abc.embedmax.site/starchannel/video.m3u8
+https://abc.embedmax.site/fx/video.m3u8
+
+
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
 https://abc.embedmax.site/fx/video.m3u8
 #EXTINF:-1 tvg-id="syfy" tvg-name="Syfy" tvg-logo="https://canalusa.com.br/img/logorojo.png" group-title="Canais | FILMES E SERIES",USA
-http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/1129
-#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/277
+https://abc.embedmax.site/usa/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="STAR CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_BD99vK7McUxJkKjgDAq2MEEbtFoz-43EQ&s" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD 
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
+https://abc.embedmax.site/starchannel/video.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD 
 https://abc.embedmax.site/starchannel/video.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
@@ -233,33 +233,36 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/251
+https://abc.embedmax.site/hbo/video.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/248
+https://abc.embedmax.site/hbo2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/261
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/42
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/256
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/260
 
 #EXTINF:-1 tvg-id="HBO plus" tvg-name="HBO plus" tvg-logo=tvg-logo="https://www.claro.com.br/files/104379/266x177/434ac9cf6b/claro-2409-zigzag-hbo-hbo-plus.jpg/m/filters:quality(75)" group-title="Canais | FILMES E SERIES",HBO+
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/245
+https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/262
+https://abc.embedmax.site/hbosignature/video.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/253
+https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" tvg-id="HBO Xtreme" group-title="Canais | FILMES E SERIES",HBO XTREME 
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/267
+https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/240
+https://abc.embedmax.site/cinemax/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinecanal_%282010-2016%29.png/revision/latest/scale-to-width-down/250?cb=20160925222041" group-title="Canais | FILMES E SERIES",cine canal
 https://mycdn.delivery/cinecanal/index.m3u8
-
+#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/277
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
 https://cdn-5.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
