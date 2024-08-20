@@ -6,7 +6,7 @@ https://new.embedflix.co/p2p/globosp/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV Alter
-https://new.embedflix.co/p2p/recordsp/playlist.m3u8?wmsAuthSign=undefined
+https://stream.embedflix.co/p2p/recordsp/chunks.m3u8?nimblesessionid=2940739&wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 https://new.embedflix.co/p2p/sbt/playlist.m3u8?wmsAuthSign=undefined
 
