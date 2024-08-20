@@ -3,12 +3,15 @@
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV Alter
+https://new.embedflix.co/p2p/recordsp/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-http://aovivo.maissbt.com/index.m3u8
+https://new.embedflix.co/p2p/sbt/playlist.m3u8?wmsAuthSign=undefined
+
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
-http://bccdn.xyz:80/738264983241pw/320184630285/69
+https://new.embedflix.co/p2p/redetv/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
@@ -88,16 +91,12 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2020/05/espn_logo.png" group-title="ESPORTES",ESPN  HD
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+https://new.embedflix.co/p2p/sportv/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD [Alter]
 http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV UHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",PREMIERE CLUBES HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",PREMIERE CLUBES HD Al
-http://cdnexpress.homelinux.net/live/3.m3u8
+https://new.embedflix.co/p2p/prfc1/chunks.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/121
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canais | VARIEDADES",DISCOVERY HD
@@ -145,7 +144,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/85
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/420
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
-https://abc.embedmax.site/multishow/video.m3u8
+https://new.embedflix.co/p2p/multishow/chunks.m3u8
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title=group-title="Canais | VARIEDADES",MTV Live
 
 #EXTINF:-1 tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939661/images/7823441?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Canais ",MTV Hits
@@ -188,13 +187,13 @@ https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
-https://abc.embedmax.site/fx/video.m3u8
+https://new.embedflix.co/p2p/fx/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
-https://abc.embedmax.site/fx/video.m3u8
+https://new.embedflix.co/p2p/warnerchannel/chunks.m3u8
 #EXTINF:-1 tvg-id="syfy" tvg-name="Syfy" tvg-logo="https://canalusa.com.br/img/logorojo.png" group-title="Canais | FILMES E SERIES",USA
-https://abc.embedmax.site/usa/video.m3u8
+https://abc.embedmax.site/usa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
@@ -202,32 +201,33 @@ https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 https://abc.embedmax.site/starchannel/video.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD 
 https://abc.embedmax.site/starchannel/video.m3u8
+https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://dzcdn.vood.top:80/hls/711_.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Canais | FILMES E SERIES",SPACE HD
 https://cdn-5.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-https://abc.embedmax.site/megapix/video.m3u8
+https://new.embedflix.co/p2p/megapix/chunks.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
 https://cdn-5.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-https://abc.embedmax.site/tcpremium/video.m3u8
+https://new.embedflix.co/p2p/tlcpremium/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/77
+https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://abc.embedmax.site/tcpipoca/video.m3u8
+https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://abc.embedmax.site/tcfun/video.m3u8
+https://new.embedflix.co/p2p/tlcfun/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-https://abc.embedmax.site/tctouch/video.m3u8
+https://new.embedflix.co/p2p/tlctouch/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD                       
-https://abc.embedmax.site/tccult/video.m3u8
+https://new.embedflix.co/p2p/tlccult/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="https://i.imgur.com/UUxM3yD.png" group-title="Canais | FILMES E SERIES",TCM
-https://abc.embedmax.site/tcm/video.m3u8
+https://new.embedflix.co/p2p/tcm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | VARIEDADES",TLC HD
 https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 
@@ -235,10 +235,10 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 https://abc.embedmax.site/hbo/video.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-https://abc.embedmax.site/hbo2/video.m3u8
+https://new.embedflix.co/p2p/hbo2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
-http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/42
+https://new.embedflix.co/p2p/hboplus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/260
@@ -253,6 +253,7 @@ https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" tvg-id="HBO Xtreme" group-title="Canais | FILMES E SERIES",HBO XTREME 
 https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 https://abc.embedmax.site/cinemax/video.m3u8
@@ -347,38 +348,25 @@ https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-id="PremiereClubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD [Alter]
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/165
 
-#EXTINF:-1 tvg-id="PremiereClubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes UHD
-https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
-
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2"tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD [Alter]
-https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
+https://new.embedflix.co/p2p/prfc2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
+https://new.embedflix.co/p2p/prfc3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD [Alter]
-https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/153
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD 
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+https://new.embedflix.co/p2p/prfc4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD [Alter]
-https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 5 HD
+https://new.embedflix.co/p2p/prfc5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/155
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD 
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+https://new.embedflix.co/p2p/prfc6/chunks.m3u8
 
 
 EXTINF:-1 tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Canais: 24Horas", O REINO INFANTIL
