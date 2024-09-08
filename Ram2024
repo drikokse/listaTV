@@ -6,7 +6,7 @@ https://new.embedflix.co/p2p/globosp/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV Alter
-https://stream.embedflix.co/p2p/recordsp/playlist.m3u8?wmsAuthSign=undefined
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/529
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 https://cdn1.easy.tv.br/sbt/tracks-v1a1a2/mono.m3u8
 
@@ -39,9 +39,9 @@ https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/220px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Canais | INFANTIL",Nickelodeon HD
 http://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GLOOB HD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/358
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/357
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/360
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/360
 #EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO HD" tvg-name="CARTOONITO HD" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
@@ -124,11 +124,8 @@ https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Canais | VARIEDADES",History2 HD
 https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://supertvaovivo.vip/wp-content/uploads/2021/08/assistir-e-entertainment-ao-vivo.webp" group-title="Canais | VARIEDADES",E! HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/103
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/103
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Canais | VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
@@ -139,11 +136,11 @@ https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/200px-Logotipo_do_Modo_Viagem.svg.png" tvg-id="MODO VIAGEM HD" tvg-name="MODO VIAGEM HD" group-title=" CANAIS • VARIEDADES",MODO VIAGEM HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/85
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/85
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/420
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/420
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
-https://new.embedflix.co/p2p/multishow/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/3423
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title=group-title="Canais | VARIEDADES",MTV Live
 
 #EXTINF:-1 tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939661/images/7823441?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Canais ",MTV Hits
