@@ -83,7 +83,7 @@ https://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/512px-Canal_Viva_2018_wordmark.svg.png" group-title="Canais | NOVELAS",ViVA HD
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="FILMES & SERIES",FUTURA
-http://cdn2.connectbr.com.br/Futura/index.m3u8?AFDTV
+https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w1312369757.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Canais | GLOBO", Azteca México
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/07/SIC_Internacional_logo_2018.png" group-title="Canais | INTERNACIONAL",Sic TV
