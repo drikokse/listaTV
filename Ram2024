@@ -18,8 +18,12 @@ https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 https://anonmedia.eu/band/index.m3u8,EXTVLCOPT:User-Agent=Mozilla/5.0&Referer=http-referrer=https://jalynrabei.com/
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
-http://cdnexpress.homelinux.net/live/62.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/TELA-BRASIL-TV.jpg?w=800&ssl=1" group-title="NOTÍCIAS",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTI" tvg-name="RBTI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | ABERTO",RBTI
+https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/index.m3u8?token=25df4afb6669769b8f2dceefe82ee60a4e961312-99cc23ded25f5991977766447454b7a1-1725933462-1725890262
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 1
 https://sportscdn.net/hls/premiere2.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://imgur.com/t7LCVCo" group-title="Canais | ABERTO",Rede Brasil HD
@@ -60,10 +64,7 @@ https://cdn-5.nxplay.com.br/ADULT_SWIN/tracks-v2a1/mono.m3u8
 https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
-https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/TELA-BRASIL-TV.jpg?w=800&ssl=1" group-title="NOTÍCIAS",Tela Brasil TV
-https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
