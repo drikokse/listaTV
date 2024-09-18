@@ -16,6 +16,18 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 01" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 01
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41122
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 02" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 02
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41123
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 03" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 03
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41124
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 04" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 04
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41125
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 05" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 05
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41126
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 16 HD | Cam 06" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_65866.jpg" group-title="A FAZENDA 16",A Fazenda 16 HD | Cam 06
+http://xcui.vitvabc.xyz:8880/Fernando/123456/41127
 #EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/529
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
@@ -24,6 +36,8 @@ https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-id="RBTI" tvg-name="RBTI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | ABERTO",RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/index.m3u8?token=25df4afb6669769b8f2dceefe82ee60a4e961312-99cc23ded25f5991977766447454b7a1-1725933462-1725890262
+
+
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 1
 https://anonmedia.eu/nationalgeographic/tracks-v1a1/mono.m3u8|Refererr=https://jalynrabei.com
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://imgur.com/t7LCVCo" group-title="Canais | ABERTO",Rede Brasil HD
