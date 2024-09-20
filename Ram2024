@@ -8,7 +8,7 @@ https://mycdn.delivery/sbt/index.m3u8
 https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8=http-referrer=https://embedmax.site/
 
 
-#EXTVLCOPT:http-referrer=https://embedmax.site/embed/56872/1/fox-soccer-plus-live.html
+#EXTVLCOPT:http-referrer=https://embedmax.site/ tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT amonstream 22
 https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8?
 
 
