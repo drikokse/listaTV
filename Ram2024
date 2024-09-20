@@ -7,8 +7,10 @@ https://mycdn.delivery/sbt/index.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT amonstream
 https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8=http-referrer=https://embedmax.site/
 
-#EXTINF:-0,National Geographic
-https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8? EXTVLCOPT:http-referrer=https://embedmax.site/
+
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8?
+
 
 
 
