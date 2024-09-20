@@ -2,18 +2,10 @@
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP anomedia
-https://mycdn.delivery/sbt/index.m3u8
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT amonstream
-https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8=http-referrer=https://embedmax.site/
-
+https://mycdn.delivery/nationalgeographic/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://embedmax.site/ tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT amonstream 22
 https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8?
-
-
-
-
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP HD
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
