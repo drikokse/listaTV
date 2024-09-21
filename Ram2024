@@ -16,18 +16,23 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 01" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 01
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254730
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 02" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 02
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254731
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 03" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 03
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254732
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 04" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 04
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258180
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 05" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 05
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258181
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 06" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 06
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258182
+#EXTINF:-1 tvg-id="" tvg-name="Camera 8" tvg-logo="http://p6.vc/DPQ6" group-title="Canais | A FAZENDA",Camera 8
+http://cdn33.cc:80/patrickpimentel/topip2010/240727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 7" tvg-logo="http://p6.vc/DPQ7" group-title="Canais | A FAZENDA",Camera 7
+http://cdn33.cc:80/patrickpimentel/topip2010/240728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 6" tvg-logo="http://p6.vc/DPQ8" group-title="Canais | A FAZENDA",Camera 6
+http://cdn33.cc:80/patrickpimentel/topip2010/240729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 5" tvg-logo="http://p6.vc/DPQ9" group-title="Canais | A FAZENDA",Camera 5
+http://cdn33.cc:80/patrickpimentel/topip2010/240730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 4" tvg-logo="http://p6.vc/DPR0" group-title="Canais | A FAZENDA",Camera 4
+http://cdn33.cc:80/patrickpimentel/topip2010/240731.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 3" tvg-logo="http://p6.vc/DPR1" group-title="Canais | A FAZENDA",Camera 3
+http://cdn33.cc:80/patrickpimentel/topip2010/240732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 2" tvg-logo="http://p6.vc/DPR2" group-title="Canais | A FAZENDA",Camera 2
+http://cdn33.cc:80/patrickpimentel/topip2010/240733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Camera 1" tvg-logo="http://p6.vc/DPR3" group-title="Canais | A FAZENDA",Camera 1
+http://cdn33.cc:80/patrickpimentel/topip2010/240734.ts
+
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://cdn33.cc:80/patrickpimentel/topip2010/16.ts
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
