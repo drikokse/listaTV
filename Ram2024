@@ -16,30 +16,24 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 1" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 1
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309410
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  1 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  1 [ALT]
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/387354
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 2
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309411
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 2 [ALT]
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/387355
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 3" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 3
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309412
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  3 [ALT] " tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  3 [ALT] 
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/387356
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 4
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309413
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 4 [ALT]
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/387357
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 5" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 5
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309414
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 5 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 5 [ALT]
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/387358
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 6" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 6
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309415
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  7" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  7
-http://dns.morango.pro:80/codzyd7o/ddin4lo7/309416
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Aquecimento A Fazenda " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",Aquecimento A Fazenda 
+http://xciptv.aplicativos.top:80/746163457/5008672/397630
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
+http://xciptv.aplicativos.top:80/746163457/5008672/398918
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
+http://xciptv.aplicativos.top:80/746163457/5008672/397631
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
+http://xciptv.aplicativos.top:80/746163457/5008672/398919
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
+http://xciptv.aplicativos.top:80/746163457/5008672/397632
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
+http://xciptv.aplicativos.top:80/746163457/5008672/398920
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
+http://xciptv.aplicativos.top:80/746163457/5008672/397633
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
+http://xciptv.aplicativos.top:80/746163457/5008672/397634
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
+http://xciptv.aplicativos.top:80/746163457/5008672/398922
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://cdn33.cc:80/patrickpimentel/topip2010/16.ts
