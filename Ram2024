@@ -40,6 +40,8 @@ http://cdn33.cc:80/patrickpimentel/topip2010/16.ts
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/13854
 #EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w796637877.m3u8
+#EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/529
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
@@ -49,8 +51,8 @@ https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/index.m3u8?token=25df4afb6669769b8f2dceefe82ee60a4e961312-99cc23ded25f5991977766447454b7a1-1725933462-1725890262
 
 
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL 1
-https://anonmedia.eu/nationalgeographic/tracks-v1a1/mono.m3u8|Refererr=https://jalynrabei.com
+#EXTINF:-1 tvg-id="Meio Norte" tvg-name="Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/17/Logotipo_da_TV_Meio.png/200px-Logotipo_da_TV_Meio.png" group-title="Canais | ABERTO",Meio Norte
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://imgur.com/t7LCVCo" group-title="Canais | ABERTO",Rede Brasil HD
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rSSyJwWxUwfeGCiYLCSGzps0U5nCs8dGudzgbi3uQNRy-69gUdwp2jw2Sa_l2JgdZHl9oSehORQ=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV Imaculada
@@ -87,7 +89,8 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 https://cdn-5.nxplay.com.br/ADULT_SWIN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 channel id="Dreamworks HD" tvg-name="DREAM WORKS HD" tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Canais | INFANTIL",DREAM WORKS HD
 https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
+
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading.br" tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais | INFANTIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
