@@ -16,18 +16,30 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 01" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 01
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254730
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 02" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 02
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254731
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 03" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 03
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/254732
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 04" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 04
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258180
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 05" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 05
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258181
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - 06" tvg-logo="https://iili.io/d6wzVXn.png" group-title="Canais • Reality Shows",A FAZENDA 16 - 06
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/258182
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 1" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 1
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309410
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  1 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  1 [ALT]
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/387354
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 2
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309411
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 2 [ALT]
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/387355
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 3" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 3
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309412
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  3 [ALT] " tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  3 [ALT] 
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/387356
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 4
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309413
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 4 [ALT]
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/387357
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 5" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 5
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309414
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 5 [ALT]" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 5 [ALT]
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/387358
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 6" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA 6
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309415
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA  7" tvg-logo="http://dns.panela.online:80/images/38ad183e66de0a8d284de0cb3ad23857.png" group-title="A FAZENDA 16",A FAZENDA  7
+http://dns.morango.pro:80/codzyd7o/ddin4lo7/309416
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://cdn33.cc:80/patrickpimentel/topip2010/16.ts
