@@ -6,7 +6,7 @@ https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RecordTV São Paulo HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV RJ
-http://mycdn.delivery/fx/index.m3u8
+https://mycdn.delivery/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 http://xcui.vitvabc.xyz:8880/Fernando/123456/40689
 
