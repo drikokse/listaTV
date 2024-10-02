@@ -18,6 +18,8 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 00" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 00
+http://fzcdn.vood.top/hls/397631_.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 01" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 01
 https://cr7v.short.gy/25_mensais/AF1/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 02" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 02
