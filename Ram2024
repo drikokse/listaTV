@@ -11,44 +11,25 @@ https://anonmedia.eu/record/index.m3u8
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 http://xcui.vitvabc.xyz:8880/Fernando/123456/40689
-
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 01" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 01
-https://cr7v.short.gy/25_mensais/AF1/Whats7591634025.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 02" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 02
-https://cr7v.short.gy/25_mensais/AF2/Whats7591634025.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 03" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 03
-http://tv5.me:80/geovani0003/Ye22209010/260290
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 04" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 04
-http://tv5.me:80/geovani0003/Ye22209010/260291
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 05" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 05
-http://tv5.me:80/geovani0003/Ye22209010/260292
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 06" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 06
-http://tv5.me:80/geovani0003/Ye22209010/260293
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 07" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 07
-http://tv5.me:80/geovani0003/Ye22209010/260294
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 08
-http://tv5.me:80/geovani0003/Ye22209010/260295
-
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 02" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 02
-http://tv5.me:80/geovani0003/Ye22209010/260289
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 03" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 03
-http://tv5.me:80/geovani0003/Ye22209010/260290
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 04" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 04
-http://tv5.me:80/geovani0003/Ye22209010/260291
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 05" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 05
-http://tv5.me:80/geovani0003/Ye22209010/260292
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 06" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 06
-http://tv5.me:80/geovani0003/Ye22209010/260293
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 07" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CAM 07
-http://tv5.me:80/geovani0003/Ye22209010/260294
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png" group-title="A FAZENDA 16",CNN PORTUGAL
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 06" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 06
+http://dns.p2.wtf:80/live/9291400604/34939156n/273878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 05" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 05
+http://dns.p2.wtf:80/live/9291400604/34939156n/273877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 04" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 04
+http://dns.p2.wtf:80/live/9291400604/34939156n/273876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 03" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 03
+http://dns.p2.wtf:80/live/9291400604/34939156n/273875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 02" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 02
+http://dns.p2.wtf:80/live/9291400604/34939156n/273874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 01" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 01
+http://dns.p2.wtf:80/live/9291400604/34939156n/273873.m3u8
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png",CNN PORTUGAL
 https://video-auth2.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=47238564&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNCA1OjUxOjUzIFBNJmhhc2hfdmFsdWU9OWRNN0NWNm5tcjhKVkJHQ1FCR09aQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjNTA0Y2VkLWQ1ODAtNDdmOC1iMGI1LWViMWUzNDAzMjRlZg==
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://tv5.me:80/geovani0003/Ye22209010/6904
