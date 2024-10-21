@@ -31,6 +31,8 @@ http://dns.p2.wtf:80/live/9291400604/34939156n/273874.m3u8
 http://dns.p2.wtf:80/live/9291400604/34939156n/273873.m3u8
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png",CNN PORTUGAL
 https://video-auth2.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=47238564&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNCA1OjUxOjUzIFBNJmhhc2hfdmFsdWU9OWRNN0NWNm5tcjhKVkJHQ1FCR09aQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjNTA0Y2VkLWQ1ODAtNDdmOC1iMGI1LWViMWUzNDAzMjRlZg==
+#EXTINF:-1 tvg-id="" tvg-name="TV A CRÍTICA" tvg-logo="https://dns.painel.wtf/br/tvacritica.png" group-title="ABERTOS",TV A CRÍTICA
+http://dns.p2.wtf:80/live/9291400604/34939156n/75124.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://tv5.me:80/geovani0003/Ye22209010/6904
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
