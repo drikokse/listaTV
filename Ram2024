@@ -208,7 +208,7 @@ https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
-https://new.embedflix.co/p2p/fx/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
 
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
@@ -254,31 +254,31 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://new.embedflix.co/p2p/hbo/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/251
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-https://new.embedflix.co/p2p/hbo2/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
-https://new.embedflix.co/p2p/hbopop/chunks.m3u8?nimblesessionid=801552&wmsAuthSign=undefined
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/260
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="Canais | ABERTO",HBO MUNDI 
-http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/260
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/257
 
 #EXTINF:-1 tvg-id="HBO plus" tvg-name="HBO plus" tvg-logo=tvg-logo="https://www.claro.com.br/files/104379/266x177/434ac9cf6b/claro-2409-zigzag-hbo-hbo-plus.jpg/m/filters:quality(75)" group-title="Canais | FILMES E SERIES",HBO+
-https://new.embedflix.co/p2p/hboplus/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/246
  
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-https://abc.embedmax.site/hbosignature/video.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/264
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-https://new.embedflix.co/p2p/hbofamily/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" tvg-id="HBO Xtreme" group-title="Canais | FILMES E SERIES",HBO XTREME 
-https://new.embedflix.co/p2p/hboextreme/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/266
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-https://abc.embedmax.site/cinemax/video.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinecanal_%282010-2016%29.png/revision/latest/scale-to-width-down/250?cb=20160925222041" group-title="Canais | FILMES E SERIES",cine canal
 https://mycdn.delivery/cinecanal/index.m3u8
