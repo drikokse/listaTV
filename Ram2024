@@ -17,6 +17,8 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/481
 https://cdn1.easy.tv.br/redetv/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Canais | VARIEDADES",Canal UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 06" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 06
 http://dns.p2.wtf:80/live/9291400604/34939156n/273878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 05" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 05
