@@ -29,8 +29,8 @@ http://dns.p2.wtf:80/live/9291400604/34939156n/273876.m3u8
 http://dns.p2.wtf:80/live/9291400604/34939156n/273875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 02" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 02
 http://dns.p2.wtf:80/live/9291400604/34939156n/273874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 01" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 01
-http://dns.p2.wtf:80/live/9291400604/34939156n/273873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 01" tvg-logo="" group-title="REALITY SHOW", amazon premiere
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Comedia
 https://apollo.production-public.tubi.io/live/ac-afv/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=025e61af-d897-4dca-a9f6-6fd23429a7ac&ap.ss=58a8d12daa28c160467309d33d75a040
 #EXTINF:-1 tvg-id="" tvg-name="TV A CRÍTICA" tvg-logo="https://dns.painel.wtf/br/tvacritica.png" group-title="ABERTOS",TV A CRÍTICA
@@ -139,7 +139,7 @@ https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
-https://new.embedflix.co/p2p/nationg/playlist.m3u8?wmsAuthSign=undefined     
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/83  
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",Investigação Discovery
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
@@ -200,7 +200,7 @@ https://abc.embedmax.site/universaltv/video.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | FILMES E SERIES",Canal Sony HD 
 https://abc.embedmax.site/sonychannel/video.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
-https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
 #EXTINF:-1 tvg-id="SonyMovies" tvg-name="SonyMovies" tvg-logo="https://br.sonymovies.com/themes/custom/responsive_sony_movies/logo.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 
@@ -228,7 +228,7 @@ https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://dzcdn.vood.top:80/hls/711_.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-5.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 https://new.embedflix.co/p2p/megapix/chunks.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
