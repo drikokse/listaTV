@@ -47,8 +47,10 @@ https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-id="RBTI" tvg-name="RBTI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | ABERTO",RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/index.m3u8?token=25df4afb6669769b8f2dceefe82ee60a4e961312-99cc23ded25f5991977766447454b7a1-1725933462-1725890262
-
-
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="NBT"  tvg-logo="https://imgur.com/O9XETd7.png" group-title= "REGIONAIS",NBT
+https://isaocorp.cloudecast.com/nbt/playlist.m3u8
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="VILATV"  tvg-logo="https://imgur.com/O9XETd7.png" group-title= "REGIONAIS",VILA TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w493787971.m3u8
 #EXTINF:-1 tvg-id="Meio Norte" tvg-name="Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/17/Logotipo_da_TV_Meio.png/200px-Logotipo_da_TV_Meio.png" group-title="Canais | ABERTO",Meio Norte
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://imgur.com/t7LCVCo" group-title="Canais | ABERTO",Rede Brasil HD
@@ -60,27 +62,27 @@ https://cdn1.easy.tv.br/redevida/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais | ABERTO",TV Aparecida HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Canais | INFANTIL",Cartoon HD
-https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/346
 #EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/348
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/220px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Canais | INFANTIL",Nickelodeon HD
-http://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/365
 #EXTINF:-1 tvg-id="GLOOB HD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Canais | INFANTIL",GLOOB HD
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/357
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho HD
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/360
 #EXTINF:-1 tvg-id="Nick jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/363
 #EXTINF:-1 tvg-id="CARTOONITO HD" tvg-name="CARTOONITO HD" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/344
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/kA4PGon37WuLBu7PlME-GazQ2IOtRrCBPm5FjX3Z2qNMBLF_WEh9xNjCFGg8hAeVbikJ4dsBDIV2kFemLF2-c-Vsu5aCRNppV2OE6Kgez1CE4Wk662yf5E604sw" group-title="Canais | INFANTIL",Clubinho 
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="RETRO CARTOON" tvg-name="retro Cartoon" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL",TV RÁ Tim Bum 
-https://cdn-5.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/369
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Canais | ABERTO", Fox kids
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title= "Aberto",ADULT SWIM 
@@ -135,31 +137,28 @@ https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports
 https://new.embedflix.co/p2p/bandsport/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="Canais | VARIEDADES",DISCOVERY HD
-https://new.embedflix.co/p2p/discoverych/playlist.m3u8?wmsAuthSign=undefined
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/65
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Canais | VARIEDADES",HGTV HD
 https://cdn-5.nxplay.com.br/HGTV_BR_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/250px-World_Discovery_HD_logo.svg.png" group-title="Canais | VARIEDADES",Discovery World HD
-https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/77
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-https://new.embedflix.co/p2p/discoveryturbo/playlist.m3u8?wmsAuthSign=undefined
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/75
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/73
 
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/140
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsletter.genway.pl%2Fthe-national-geographic-logo-the-history-behind-the-brand-kk-K6RXD6c1&psig=AOvVaw1n4WAKs7jaiKxwTjWNQi9b&ust=1719869412157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjb7fyihIcDFQAAAAAdAAAAABAf" tvg-id="National Geographic" group-title="Canais | VARIEDADES",National Geographic
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/83  
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/87
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canais | VARIEDADES",Investigação Discovery
-https://cdn-5.nxplay.com.br/DISCOVERY_ID/index.m3u8
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-https://new.embedflix.co/p2p/discoveryinvesticacao/playlist.m3u8?wmsAuthSign=undefined
-
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/69
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Canais | VARIEDADES",DISCOVERY SCIENCE HD
-https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/71
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Canais | VARIEDADES",History HD
-https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/83  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Canais | VARIEDADES",History2 HD
-https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/815
 #EXTINF:-1 tvg-logo="https://supertvaovivo.vip/wp-content/uploads/2021/08/assistir-e-entertainment-ao-vivo.webp" group-title="Canais | VARIEDADES",E! HD
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/103
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Canais | VARIEDADES",Curta!
@@ -178,9 +177,13 @@ http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/420
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/128
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title=group-title="Canais | VARIEDADES",MTV Live
-
+http://cdn22.cc:80/Magalhaesps/101280/13.ts
 #EXTINF:-1 tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939661/images/7823441?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Canais ",MTV Hits
 http://178.162.225.160:2082/LIST-MIGIRATION-n6ceB4gkIL/AL9qF3k4OP/430
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="MTV00s"  tvg-logo="https://imgur.com/O9XETd7.png" group-title= "MÚSICAS",MTV 00'S
+http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/430
+#EXTINF:-1 tvg-id="AFDTV" tvg-name="RÁDIOCAPITALTV"  tvg-logo="https://imgur.com/O9XETd7.png" group-title= "MÚSICAS",RÁDIO CAPITAL TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="Canais | MÚSICA",Pluto TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
