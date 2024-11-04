@@ -17,6 +17,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/481
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/122
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="CanalLibras" tvg-logo="https://www.gov.br/mec/pt-br/canal-libras/canal-libras-pagina-inicial/@@govbr.institucional.banner/dd7e1b05-7bbe-4766-a771-c1c074c136d3/@@images/f4c5216a-d08c-4ede-a7f9-ed0cb522538e.jpeg" group-title="Canais ABERTO",🟢Canal Libras HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://www.gov.br/mec/pt-br/canal-libras
+https://canallibras-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Canais | VARIEDADES",Canal UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 06" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 06
