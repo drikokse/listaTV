@@ -1,33 +1,8 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://cr7v.short.gy/MeuInsta@mano_limah,https://bit.ly/MeoM3Upt,https://bit.ly/Brazilepg,https://bit.ly/EPGPlutoAll,https://bit.ly/SamsungEPG,https://bit.ly/EPGPlex,https://bit.ly/StirrEPG,https://bit.ly/allepgMjh,"
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 1" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda1.php
+#EXTINF:-0,A Fazenda Cam 1
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://abc.embedmax.site/001/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda2.php
-https://abc.embedmax.site/002/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 3" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda3.php
-https://abc.embedmax.site/003/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda4.php
-https://abc.embedmax.site/004/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 5" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda5.php
-https://abc.embedmax.site/005/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 6" tvg-logo="https://prostore.app/logos/a.fazeenda.png" group-title="CANAIS REALITY A FAZENDA",🟢A FAZENDA 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/afazenda6.php
-https://abc.embedmax.site/006/video.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
 #EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo Minas
