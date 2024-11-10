@@ -22,21 +22,11 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Canais | INTERNACIONAL",FOX News NOW | EUA 
 https://livetvde.net/k12/index.m3u8?token=61cbd83e59acc9bbdb8a48cea656f12a15a1091f-b8a48c3b0d68d548ff06260e8fdde8cf-1731195485-1731184685
+#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
+https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Canais | VARIEDADES",Canal UOL
-https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 06" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 06
-http://dns.p2.wtf:80/live/9291400604/34939156n/273878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 05" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 05
-http://dns.p2.wtf:80/live/9291400604/34939156n/273877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 04" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 04
-http://dns.p2.wtf:80/live/9291400604/34939156n/273876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 03" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 03
-http://dns.p2.wtf:80/live/9291400604/34939156n/273875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 02" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 16 - CAM 02
-http://dns.p2.wtf:80/live/9291400604/34939156n/273874.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA Cam 2 HD
+https://cr7v.short.gy/25mensais/AF2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 16 - CAM 01" tvg-logo="" group-title="REALITY SHOW", amazon premiere
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Comedia
