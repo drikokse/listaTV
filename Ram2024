@@ -33,10 +33,6 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
 https://apollo.production-public.tubi.io/live/ac-afv/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=025e61af-d897-4dca-a9f6-6fd23429a7ac&ap.ss=58a8d12daa28c160467309d33d75a040
 #EXTINF:-1 tvg-id="" tvg-name="TV A CRÍTICA" tvg-logo="https://dns.painel.wtf/br/tvacritica.png" group-title="ABERTOS",TV A CRÍTICA
 http://dns.p2.wtf:80/live/9291400604/34939156n/75124.m3u8
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Canais | VARIEDADES",Multishow 
-http://tv5.me:80/geovani0003/Ye22209010/6904
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/13854
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/548
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
