@@ -11,7 +11,7 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS" ,CONQUISTA - RECORD TV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-https://alanza.iptv2022.com/sh/sbt/index.m3u8?
+https://cdn-5.nxplay.com.br/SBT_HD_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/481
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
@@ -24,9 +24,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://cdn-5.nxplay.com.br/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
 https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA Cam 2 HD
-https://cr7v.short.gy/25mensais/AF2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="Uma TV" tvg-name="UmaTV" tvg-logo="https://imgur.com/wsbOfsu", UmaTV
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Comedia
