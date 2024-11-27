@@ -24,6 +24,18 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://cdn-5.nxplay.com.br/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
 https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 1 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 1 HD
+http://zsamason.net:80/119228019/A298R2127Q/398918
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
+http://zsamason.net:80/119228019/A298R2127Q/397631
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
+http://zsamason.net:80/119228019/A298R2127Q/397632
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
+http://zsamason.net:80/119228019/A298R2127Q/397633
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
+http://zsamason.net:80/119228019/A298R2127Q/397634
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 HD
+http://zsamason.net:80/119228019/A298R2127Q/398922
 #EXTINF:-1 tvg-id="Uma TV" tvg-name="UmaTV" tvg-logo="https://imgur.com/wsbOfsu", UmaTV
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Comedia
@@ -32,6 +44,7 @@ https://apollo.production-public.tubi.io/live/ac-afv/1280x720.m3u8?ap.debug=0&ap
 http://dns.p2.wtf:80/live/9291400604/34939156n/75124.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/548
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/reviva-ok.jpg" group-title="NOTÍCIAS",Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1952/2024/06/TELA-BRASIL-TV.jpg?w=800&ssl=1" group-title="NOTÍCIAS",Tela Brasil TV
