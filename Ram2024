@@ -22,6 +22,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Senado" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado 
 https://cdn-5.nxplay.com.br/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="6238c63deec07b000723dd77" tvg-logo="https://images.pluto.tv/channels/6238c63deec07b000723dd77/colorLogoPNG.png" group-title="🌎Variedades",Canal UOL | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
 https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 1 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 1 HD
