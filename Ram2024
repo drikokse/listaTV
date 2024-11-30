@@ -26,18 +26,16 @@ https://cdn-5.nxplay.com.br/TV_SENADO/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
 https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 1 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 1 HD
-http://zsamason.net:80/119228019/A298R2127Q/398918
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
-http://zsamason.net:80/119228019/A298R2127Q/397631
+https://abc.embedmax.site/002/video.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
-http://zsamason.net:80/119228019/A298R2127Q/397632
+https://abc.embedmax.site/003/video.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
-http://zsamason.net:80/119228019/A298R2127Q/397633
+https://abc.embedmax.site/004/video.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
-http://zsamason.net:80/119228019/A298R2127Q/397634
+https://abc.embedmax.site/005/video.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 HD
-http://zsamason.net:80/119228019/A298R2127Q/398922
+https://abc.embedmax.site/006/video.m3u8
 #EXTINF:-1 tvg-id="Uma TV" tvg-name="UmaTV" tvg-logo="https://imgur.com/wsbOfsu", UmaTV
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Comedia
