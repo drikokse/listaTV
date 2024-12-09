@@ -11,7 +11,7 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS" , RECORD TV 3
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-https://cdn-5.nxplay.com.br/SBT_HD_TK/tracks-v1a1/mono.m3u8
+https://alanza.iptv2022.com/sh/sbt/index.m3u8?
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/481
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
