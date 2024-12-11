@@ -40,8 +40,8 @@ https://abc.embedmax.site/006/video.m3u8
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-id="abc" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", ABC central
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://www.pngwing.com/en/free-png-hqvze" group-title="ABERTOS",NBC
-https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+#EXTINF:-1 tvg-id="NBC" tvg-name="acritica" tvg-logo="https://www.pngwing.com/en/free-png-hqvze" group-title="ABERTOS", A Critica
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
 http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/548
 
