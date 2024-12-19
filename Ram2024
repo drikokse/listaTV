@@ -34,8 +34,8 @@ https://abc.embedmax.site/003/video.m3u8
 https://abc.embedmax.site/004/video.m3u8
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
 https://abc.embedmax.site/005/video.m3u8
-#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 HD
-https://abc.embedmax.site/006/video.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",felefe
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=2221239385
 #EXTINF:-1 tvg-id="Uma TV" tvg-name="UmaTV" tvg-logo="https://imgur.com/wsbOfsu", UmaTV
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-id="abc" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", CNN Teste
