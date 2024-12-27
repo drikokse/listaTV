@@ -19,8 +19,8 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://stream1.freetv.fun/tv-senado-1.m3u8
 #EXTINF:-1 tvg-id="Uma TV" tvg-name="UmaTV" tvg-logo="https://imgur.com/wsbOfsu", UmaTV
  https://acesso.ecast.site:3011/live/umatvlive.m3u8
-#EXTINF:-1 tvg-id="abc" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", CNN Teste
-https://livetvde.net/cusa2/tracks-v1a1/mono.m3u8?token=a1e2aa68a2d2ae7705a683fbcd0c7f29a45ed2e1-b0a4cef51eb4f0
+#EXTINF:-1 tvg-id="abc" tvg-name="CAM 08" tvg-logo="http://st1.cdn-us.co:8080/icon/508-b-1726569924379.png", Master TV
+https://stream-hls.castr.net/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="acritica" tvg-logo="https://www.pngwing.com/en/free-png-hqvze" group-title="ABERTOS", A Critica
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | GLOBO",TV Diário HD
