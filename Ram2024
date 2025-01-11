@@ -1,14 +1,21 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah,https://bit.ly/MeoM3Upt,https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://i.mjh.nz/PlutoTV/br.xml,https://bit.ly/Brazilepg,https://bit.ly/EPGPlutoAll,https://bit.ly/SamsungEPG,https://bit.ly/EPGPlex,https://bit.ly/StirrEPG,https://bit.ly/allepgMjh"
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 2
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 2 Bom
+https://super-cdn.link/globosp-globosaopaulo/index.m3u8
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo RJ
+https://super-cdn.link/globorj-globorio/index.m3u8
 
+#EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo MG
+https://super-cdn.link/globomg-tvintegracaojuizdefora/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Globo DF" tvg-name="GLOBO DF" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo DF
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP 
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-https://super-cdn.link/sbt/index.m3u8
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://super-cdn.link/band/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
@@ -116,7 +123,7 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://cr7v.short.gy/ManoT/Whats75991634025/1/Index.m3u8
+https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",PREMIERE CLUBES HD
 https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
@@ -208,7 +215,7 @@ https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/124
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/131
+https://super-cdn.link/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
 
@@ -254,9 +261,9 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-ttp://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/251
+https://super-cdn.link/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-ttp://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/248
+https://super-cdn.link/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png/v1/fill/w_1192,h_670,q_70,strp/hbo_pop_logo_by_doublekids07_ddpwhz3-pre.jpg" tvg-id="HBO Pop" group-title="Canais | FILMES E SERIES",HBO pop HD
 ttp://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/260
