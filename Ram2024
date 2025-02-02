@@ -2,23 +2,17 @@
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo SP HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
 
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo RJ
-https://tv.fazoeli.co.za/m3u8/globorj.m3u8
+
 ############################################################################ Canais | REALITY
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
-https://cr7v.short.gy/ManoTVfree/BBB01/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
 http://conexao-vs.live/BBB1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
-https://cr7v.short.gy/ManoTVfree/BBB02/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
 http://conexao-vs.live/BBB2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",Mosaico
-https://cr7v.short.gy/ManoTVfree/CMosaico/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo MG
 https://super-cdn.link/globomg-tvintegracaojuizdefora/tracks-v1a1/mono.m3u8
