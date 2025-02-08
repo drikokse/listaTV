@@ -12,6 +12,8 @@ http://conexao-vs.live/GLOBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
 http://conexao-vs.live/BBB1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 alternativo
+https://fonteruim.icu/token/4d26010c82794f043b637fd9be5df7e0/embedtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
 http://conexao-vs.live/BBB2/index.m3u8
