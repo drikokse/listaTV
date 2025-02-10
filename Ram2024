@@ -7,13 +7,7 @@ http://204.12.227.194:80/4/live.m3u8
 #EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 3
 http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ 
-https://live-as-10-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM5MjQwODUxLCJpYXQiOjE3MzkxNTQ0NTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTE2NDZlMzItYWM3Ni00OWVmLWE1NjEtY2E5NzQ4YTY5NzBkIiwicGF0aCI6Ii9udS9mKGJNaW49MTQ3Njk5MikvZ2xvYm8tbW9jL3BsYXlsaXN0Lm0zdTgifQ.lgQ_-02UaQ5z2VvcJQ-Lk0u4ROyAymD4pxckSxqFM7Zonssc01ezlda1X1wz-rmgR2FA9BlrJrmaJujIrVxFxVQqLjg5Zcxa5CremQCRJE5cYZ7WwMf5ProAENsHowYUaCXL029Pbl8gQeOHDk8ZdFsVN4t0pPPqVWVQxnFG0E49mny0pOxFPBrLMVD4BMuNSwHkAbXByheuMqk2V7aFyhGu84bdPCAzk07YyQV6uREoHSqyaFrW7o7MCMHCh0RKzO3qrOKOBrOamYyYJ0YykCqXmKfN7Yf04Vl5_WFH2phvOtxDumTF4SDIliNqRRtEWS5G1DdQOfBkBMonlwPjIg/nu/f(bMin=1476992)/globo-moc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="-1" tvg-logo="https://sinalpublico.netlify.app/imgs/globo.png" group-title="Canais ABERTO",🟢GLOBO BA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedstream.org/player5/globoba-tvbahia.html
-https://anonstream.zip/globoba-tvbahia/index.m3u8
-############################################################################ Canais | REALITY
+https://super-cdn.link/globorj-globorio/index.m3u8
 
 
 
