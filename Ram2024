@@ -8,6 +8,11 @@ http://204.12.227.194:80/4/live.m3u8
 http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ 
 https://fonteruim.icu/token/d4bb0404710ccae6d7bffdca7c389c0c/embedtv.m3u8
+
+#EXTINF:-1 tvg-id="-1" tvg-logo="https://sinalpublico.netlify.app/imgs/globo.png" group-title="Canais ABERTO",🟢GLOBO BA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://embedstream.org/player5/globoba-tvbahia.html
+https://anonstream.zip/globoba-tvbahia/index.m3u8
 ############################################################################ Canais | REALITY
 
 
