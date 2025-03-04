@@ -7,10 +7,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 3
 http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ 
-https://live-as-09-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQwNzE5MjE4LCJpYXQiOjE3NDA3MDg0MTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTE2NDZlMzItYWM3Ni00OWVmLWE1NjEtY2E5NzQ4YTY5NzBkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.knx9sv38KCUcIgTPAJYkEvLjoEYGEf4s92RrNnyALyCHwSJmZbW-iOey7aSLeVwrLX_psJx6syClwVKkXuWkyWBLFtVqHlVKSe4q724B3SVa2Wv126JBbuZwFZZ5GxgYD5OUnWO583BOUZxU6U-GbJA8VabZpRvq4C9BK5J5R6SrBwnCJOd7NGW8DuVOeXbTkNtq8Kj0fdL3GIYaerJOcWaczd1ZJeJcTtJgGNjgLfDZfLagMY53-O6Fy-WOl-RSOHZwh1EKlMnIWxlPgRhGs7ACUJgWsq5NmUn8g9ymPTSD9Br_qVzvUlt8qU3O4iAGXVLWsYuJF9G2c7tXe3MxBg/nu/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/0luDAFhxS7CCbGH8q01QIg/stream/1294efd2-37c9-4faf-8b46-a7d70dba68ca:SCL/master.m3u8
-
-
-
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/266
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
 http://conexao-vs.live/BBB1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 alternativo
@@ -29,13 +26,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b4
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP 
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV rj
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/271
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 http://45.235.0.78/SBT-HD/index.m3u8
 
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
-https://super-cdn.link/band/index.m3u8
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/241
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="Canais | ABERTO",RedeTV! HD
-https://super-cdn.link/redetv/index.m3u8
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/236
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Canais | ABERTO",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV (720p)
@@ -119,8 +118,8 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://cdn-5.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MPLvLOs.png" group-title="Canais | NOTÍCIAS",Oeste Sem Filtro- N é 24h YouTube 
-https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MPLvLOs.png" group-title="Canais | MULTISHOW
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/235
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/512px-Canal_Viva_2018_wordmark.svg.png" group-title="Canais | NOVELAS",ViVA HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
@@ -139,7 +138,7 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/240
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",PREMIERE CLUBES HD
 https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
@@ -219,7 +218,7 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/175
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/156
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal TV
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/125
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/475
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | FILMES E SERIES",Canal Sony HD 
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/174
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
@@ -237,7 +236,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
 
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/146
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/478
 #EXTINF:-1 tvg-id="syfy" tvg-name="Syfy" tvg-logo="https://canalusa.com.br/img/logorojo.png" group-title="Canais | FILMES E SERIES",USA
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
@@ -252,7 +251,7 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/130
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/233
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
@@ -277,7 +276,7 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://super-cdn.link/hbo/index.m3u8
+http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/232
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
 https://super-cdn.link/hbo2/index.m3u8
 
