@@ -14,10 +14,10 @@ https://live-as-09-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
 http://conexao-vs.live/BBB1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 alternativo
-https://new.m3u8.one/bbb1/index.m3u8
+https://new.m3u8.one/bbb3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
-https://new.m3u8.one/bbb2/index.m3u8
+https://new.m3u8.one/bbb4/index.m3u8
 
 
 
