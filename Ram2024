@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ HD
 https://lvstr.cfd/globorj-globorio/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 3
+#EXTINF:-1 tvg-id="Globo MG" tvg-name="GLOBO MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 
 http://conexao-vs.live/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ 
-https://new.m3u8.one/globorj-globorio/index.m3u8
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo sp alt 
+https://new.m3u8.one/globosp/index.m3u8
 #EXTINF:-1 tvg-id="Globo RS" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO RJ
 https://lvstr.cfd/globors-rbstvportoalegre/tracks-v1a1/mono.m3u8
 
