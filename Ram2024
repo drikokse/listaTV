@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah,https://bit.ly/MeoM3Upt,https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://i.mjh.nz/PlutoTV/br.xml,https://bit.ly/Brazilepg,https://bit.ly/EPGPlutoAll,https://bit.ly/SamsungEPG,https://bit.ly/EPGPlex,https://bit.ly/StirrEPG,https://bit.ly/allepgMjh"
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ HD
-https://lvstr.cfd/globorj-globorio/index.m3u8
+https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 
-https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
 #EXTINF:-1 tvg-id="Globo RS" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO RJ
 https://new.ejaculacaoretardada.site/globorj/index.m3u8?wmsAuthSign=undefined
 
@@ -33,8 +33,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b4
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SP 
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV rj
-http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/271
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SJRP
+http://187.120.222.12:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
 http://45.235.0.78/SBT-HD/index.m3u8
 
