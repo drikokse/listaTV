@@ -114,7 +114,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 https://abc.embedmax.site/comediacentral/video.m3u8
 #EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/290px-Logotipo_da_GloboNews.png" group-title="Canais | Notícias",GloboNews 
-https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
+http://187.62.246.65:8000/play/globonews
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
 https://tv.vidatel.com.br/hls/tvrecordnewshd/live.m3u8
@@ -145,7 +145,7 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-http://ibys.xyz:80/firetvf0nt3/UGzMZbY6KEuT/240
+http://187.62.246.65:8000/play/sportv
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" tvg-id="Premiere Clubes" group-title="Canais | ESPORTES",PREMIERE CLUBES HD
 https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
