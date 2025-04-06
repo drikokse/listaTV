@@ -3,11 +3,9 @@
 https://lvstr.cfd/globorj-globorio/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 
-http://conexao-vs.live/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo MELHOR
-https://tvsmarters.org/globosp/video.m3u8
+https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="Globo RS" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO RJ
-https://s2.canais-cdn-1.icu/fontes/embedtv/globorj.m3u8
+https://new.ejaculacaoretardada.site/globorj/index.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="https://i.imgur.com/Sw9WqTV.png" group-title="MUSICAS",BIS
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/420
@@ -15,9 +13,9 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/420
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/423
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 Alternativo
-http://conexao-vs.live/BBB1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1  Alternativo
 https://new.ejaculacaoretardada.site/bbb1/index.m3u8?wmsAuthSign=undefined
+#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1  Alternativo
+https://new.ejaculacaoretardada.site/bbb2/index.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 Alternativo
 http://conexao-vs.live/BBB3/index.m3u8
