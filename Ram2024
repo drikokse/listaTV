@@ -36,7 +36,7 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SJRP
 http://187.120.222.12:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-http://187.120.222.12:8000/play/a06f/index.m3u8
+https://onplaytv.net/sbtsp/video.m3u8
 
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 http://conexao-vs.live/BAND/index.m3u8
