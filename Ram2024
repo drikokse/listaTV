@@ -5,7 +5,7 @@ http://15.235.50.114:19481
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"roup-title="Canais | GLOBO",Globo SP 
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO Rio de Janeiro
-http://15.235.50.114:19481
+https://livcdn.website/globosp-globosaopaulo/tracks-v1a1/mono.m3u8?token=f64ca478f93796b12abe3912d33d3554e76ca20f-46fbcc675174e7150cb2a73bb5269a16-1745134046-1745123246&remote=177.137.66.41
 
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="https://i.imgur.com/Sw9WqTV.png" group-title="MUSICAS",BIS
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/420
@@ -18,7 +18,7 @@ http://server1.conexao-vs.live/BBB1/index.fmp4.m3u8?token=f1m6Drtd3P60
 https://livcdn.website/globosp-globosaopaulo/tracks-v1a1/mono.m3u8?token=f64ca478f93796b12abe3912d33d3554e76ca20f-46fbcc675174e7150cb2a73bb5269a16-1745134046-1745123246&remote=177.137.66.41
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 Alternativo
-http://conexao-vs.live/BBB3/index.m3u8
+http://15.235.50.114:19481
 
 
 
