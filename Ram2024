@@ -7,7 +7,7 @@ http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO Rio de Janeiro
 https://livcdn.website/globosp-globosaopaulo/tracks-v1a1/mono.m3u8?token=f64ca478f93796b12abe3912d33d3554e76ca20f-46fbcc675174e7150cb2a73bb5269a16-1745134046-1745123246&remote=177.137.66.41
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
