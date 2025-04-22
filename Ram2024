@@ -6,26 +6,8 @@ https://onplaytv.net/globosp/video.m3u8
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO Rio de Janeiro
 https://livcdn.website/globosp-globosaopaulo/tracks-v1a1/mono.m3u8?token=f64ca478f93796b12abe3912d33d3554e76ca20f-46fbcc675174e7150cb2a73bb5269a16-1745134046-1745123246&remote=177.137.66.41
-
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="https://i.imgur.com/Sw9WqTV.png" group-title="MUSICAS",BIS
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/420
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/MxmaaUC.png" group-title="ENTRETENIMENTO",MULTISHOW
-http://187.62.246.65:8001/play/multishow
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 Alternativo
-http://server1.conexao-vs.live/BBB1/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1  Alternativo
-https://livcdn.website/globosp-globosaopaulo/tracks-v1a1/mono.m3u8?token=f64ca478f93796b12abe3912d33d3554e76ca20f-46fbcc675174e7150cb2a73bb5269a16-1745134046-1745123246&remote=177.137.66.41
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1 Alternativo
-http://15.235.50.114:19481
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB mosaico
-http://conexao-vs.live/BBB3/index.m3u8
-
-
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
