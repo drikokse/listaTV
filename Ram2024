@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://bit.ly/MeoM3Upt,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png" group-title="Canais | GLOBO",Globo RJ HD
 https://onplaytv.net/globosp/video.m3u8
