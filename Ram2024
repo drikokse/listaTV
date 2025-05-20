@@ -21,7 +21,7 @@ http://187.120.222.12:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV alternativa
 http://200.40.67.106:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
-https://onplaytv.net/sbtsp/video.m3u8
+https://new.amorperfeito.art/sbt/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/SOfcdFf.png" group-title="Canais | ABERTO",Band SP HD
 https://embedcanaisdetv.online/bandsp/video.m3u8
