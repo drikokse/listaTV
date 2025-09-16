@@ -13,7 +13,7 @@ https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
 
 
 #EXTINF:-1 tvg-id="Band Maceió HD" tvg-name="Band Maceió HD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",Band Maceió HD
-https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV SJRP
 http://187.120.222.12:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV alternativa
@@ -1875,6 +1875,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp"  group-title="CANAIS ABERTOS",RTN
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+
 
 
 
