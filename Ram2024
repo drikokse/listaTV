@@ -15,12 +15,18 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
 http://187.120.222.12:8000/play/a06k/index.m3u8
 ########################################################################## Canais | A Fazenda 17
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 1
-https://cr7v.short.gy/ManoTV/af1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 2
-https://cr7v.short.gy/ManoTV/af2/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 01
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812329.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 02
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812330.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 03
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812331.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 04
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812332.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 05
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812333.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title="CANAIS I A FAZENDA 2025",A FAZENDA 17 CAM 06
+http://facilita.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/11812334.ts
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Canais | ABERTO",RecordTV alternativa
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Canais | ABERTO",SBT HD
@@ -1880,6 +1886,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp"  group-title="CANAIS ABERTOS",RTN
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+
 
 
 
