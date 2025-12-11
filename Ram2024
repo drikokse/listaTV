@@ -6,7 +6,7 @@ http://79.127.238.228:14211/
 https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
-http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
@@ -75,3 +75,4 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Canais | INFANTIL",Cartoon HD
 http://78.159.119.122:2082/Xplus-1-sB2K1VdnM5/mEb8pFJId1/346
+
