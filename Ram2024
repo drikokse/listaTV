@@ -1,7 +1,4 @@
-EXTM3U url-tvg="https://webfinal.com.br/epg/Glostv.xml,http,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
-
-
-
+EXTM3U url-tvg="https://webfinal.com.br/epg/Glostv.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
 #EXTINF:-1 tvg-id="glostv" tvg-name="glostv" tvg-logo="https://glostv.com/wp-content/uploads/TV-Life-1-1.png" group-title="Canais | GLOBO", Lite TV America 
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
