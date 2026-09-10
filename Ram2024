@@ -1,5 +1,10 @@
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://79.127.238.228:14217/
+EXTM3U url-tvg="https://webfinal.com.br/epg/Glostv.xml,http,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
+
+
+
+
+#EXTINF:-1 tvg-id="glostv" tvg-name="glostv" tvg-logo="https://glostv.com/wp-content/uploads/TV-Life-1-1.png" group-title="Canais | GLOBO", Lite TV America 
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
